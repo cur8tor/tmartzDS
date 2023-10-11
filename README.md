@@ -1,4 +1,10 @@
 Link to the data set: https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
+Download the data from Kaggle into a folder named 'input' in the project directory.
+
+# Milestone 1: Exploring Instacart Online Grocery Shopping Dataset
+**By: Tanner Martz**
+
+[Link to my GitHub webpage](https://cur8tor.github.io/tmartzDS/)
 
 ## Project Overview:
 ### Objective:

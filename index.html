@@ -7494,19 +7494,25 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="Project-Overview:">Project Overview:<a class="anchor-link" href="#Project-Overview:">¶</a></h2><h3 id="Objective:">Objective:<a class="anchor-link" href="#Objective:">¶</a></h3><p>The overarching objective of our project is to leverage the Instacart dataset to gain insights into food purchasing behaviors – aiming to understand historical trends and predict future purchase behavior. This may an online food grocery store focused on essentials, potentially leading to a universal food package delivery system that caters to the general public.</p>
+<h2 id="Project-Overview:">Project Overview:<a class="anchor-link" href="#Project-Overview:">¶</a></h2><h3 id="Objective:">Objective:<a class="anchor-link" href="#Objective:">¶</a></h3><p>The overarching objective of the project is to leverage the Instacart dataset to gain insights into food purchasing behaviors – aiming to understand historical trends and predict future purchase behavior. This may inform an online food grocery store focused on essentials, potentially leading to a food package delivery system that caters to the general public.</p>
 <h3 id="Project-Introduction:">Project Introduction:<a class="anchor-link" href="#Project-Introduction:">¶</a></h3><p>The Instacart dataset provides a detailed account of user purchase behaviors over time, offering rich information about food products, order sequence, and purchase timings. Through a deep dive into this dataset, we aim to:</p>
-<p>Understand the essentials: What food products are most frequently bought by users?
-Predict future purchases: Based on historical data, can we forecast future buying behaviors?
-Inform a minimalist online food grocery store: If one were to create an 'essentials-only' store, what products should it carry?
-Explore the feasibility of a universal food package: Can we curate a food package that caters to the broadest demographic? How often should it be delivered to be most effective?</p>
+<ul>
+<li>Understand the essentials: What food products are most frequently bought by users?</li>
+<li>Predict future purchases: Based on historical data, can we forecast future buying behaviors?</li>
+<li>Inform a minimalist online food grocery store: If one were to create an 'essentials-only' store, what products should it carry?</li>
+<li>Explore the feasibility of a universal food package: Can we curate a food package that caters to the broadest demographic? How often should it be delivered to be most effective?</li>
+</ul>
 <h3 id="Project-Dataset">Project Dataset<a class="anchor-link" href="#Project-Dataset">¶</a></h3><p>This is a study of the Instacart dataset, made public with the goal to predict costomer reordering (jeremy stanley, Meg Risdal, sharathrao, Will Cukierski. (2017). Instacart Market Basket Analysis. Kaggle. <a href="https://kaggle.com/competitions/instacart-market-basket-analysis">https://kaggle.com/competitions/instacart-market-basket-analysis</a>). Instacart is challenging the Kaggle community to use this anonym
 ized data on customer orders over time to predict which previously purchased products will be in a user’s next order. Here is the link to the data set: <a href="https://www.kaggle.com/competitions/instacart-market-basket-analysis/data">https://www.kaggle.com/competitions/instacart-market-basket-analysis/data</a>.</p>
-<h3 id="ETL-(Extraction,-Transform,-Load)-Process:">ETL (Extraction, Transform, Load) Process:<a class="anchor-link" href="#ETL-(Extraction,-Transform,-Load)-Process:">¶</a></h3><p>Extraction: CSV files were obtained directly from the Instacart competition page.
-Transform: Data will undergo processes to handle missing values, ensure data tidiness, and merge tables for enriched information.
-Load: Data frames, post transformation, will be structured for further analysis.</p>
-<h3 id="Initial-Analysis-and-Observations:">Initial Analysis and Observations:<a class="anchor-link" href="#Initial-Analysis-and-Observations:">¶</a></h3><p>Understand the top products and categories from the dataset – are there patterns that highlight essential products?
-Explore purchase frequencies – which products are consistently being bought over time?</p>
+<h3 id="ETL-(Extraction,-Transform,-Load)-Process:">ETL (Extraction, Transform, Load) Process:<a class="anchor-link" href="#ETL-(Extraction,-Transform,-Load)-Process:">¶</a></h3><ul>
+<li>Extraction: CSV files were obtained directly from the Instacart competition page.</li>
+<li>Transform: Data will undergo processes to handle missing values, ensure data tidiness, and merge tables for enriched information.</li>
+<li>Load: Data frames, post transformation, will be structured for further analysis.</li>
+</ul>
+<h3 id="Initial-Analysis-and-Observations:">Initial Analysis and Observations:<a class="anchor-link" href="#Initial-Analysis-and-Observations:">¶</a></h3><ul>
+<li>Understand the top products and categories from the dataset – are there patterns that highlight essential products?</li>
+<li>Explore purchase frequencies – which products are consistently being bought over time?</li>
+</ul>
 <h3 id="Deeper-Analysis-and-Study-Objectives:">Deeper Analysis and Study Objectives:<a class="anchor-link" href="#Deeper-Analysis-and-Study-Objectives:">¶</a></h3><ul>
 <li>Essentials Identification: Through product frequency and popularity, determine a list of 'essential' food products.</li>
 <li>Predictive Analysis: Using past purchase data, attempt to predict future buying patterns.</li>
@@ -7514,6 +7520,7 @@ Explore purchase frequencies – which products are consistently being bought ov
 <li>Universal Food Package Design: Curate a universally appealing food package based on the most commonly bought items. Analyze order frequencies to determine optimal delivery schedules – weekly, bi-weekly, or monthly.</li>
 </ul>
 <h3 id="Collaboration-Plan:">Collaboration Plan:<a class="anchor-link" href="#Collaboration-Plan:">¶</a></h3><p>This project is structured as an individual endeavor. Git will be employed for version control, and all data, analysis, and findings will be hosted on GitHub. A systematic schedule will be adhered to, ensuring dedicated time slots for consistent project progress.</p>
+<p>The project will be worked on as a git respository with a .ipynb file to html file hosting project on github pages for public viewing of the findings. The data is from a Kaggle dataset from 2017, while a bit dated, it has over 2 million data points which is quite extensive and sufficient for priliminary understanding.</p>
 <h3 id="Next-Steps:">Next Steps:<a class="anchor-link" href="#Next-Steps:">¶</a></h3><ul>
 <li>Proceed with a comprehensive Exploratory Data Analysis (EDA) of the Instacart dataset.</li>
 <li>Correlate findings with external data sources, such as nutritional databases, to add depth to the analysis.</li>
@@ -7530,7 +7537,14 @@ Explore purchase frequencies – which products are consistently being bought ov
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="Preliminary-Dataset-View">Preliminary Dataset View<a class="anchor-link" href="#Preliminary-Dataset-View">¶</a></h2><p>Following is a preliminary view of the dataset, showcasing 'Orders distribution across days of the week':</p>
+<h2 id="Preliminary-Dataset-View">Preliminary Dataset View<a class="anchor-link" href="#Preliminary-Dataset-View">¶</a></h2><p>Following is a preliminary view of the dataset, showcasing the following:</p>
+<ul>
+<li>'Orders distribution across days of the week'</li>
+<li>'Orders Distribution Across Hours of the Day'</li>
+<li>'Top 10 Most Ordered Products'</li>
+<li>'Heatmap of Day of Week Vs Hour of Day'</li>
+<li>'Reorder ratio across different departments'</li>
+</ul>
 </div>
 </div>
 </div>
@@ -7542,16 +7556,13 @@ Explore purchase frequencies – which products are consistently being bought ov
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-<span class="kn">import</span> <span class="nn">seaborn</span> <span class="k">as</span> <span class="nn">sns</span>
-<span class="kn">import</span> <span class="nn">gc</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>                 <span class="c1"># Import the pandas library for data manipulation and analysis</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>     <span class="c1"># Import the matplotlib library for data visualization</span>
+<span class="kn">import</span> <span class="nn">seaborn</span> <span class="k">as</span> <span class="nn">sns</span>               <span class="c1"># Import the seaborn library for statistical data visualization</span>
 
-<span class="c1"># Set the root directory for the data</span>
-<span class="n">root</span> <span class="o">=</span> <span class="s1">'input/'</span>  <span class="c1"># assuming 'input' directory contains all your datasets</span>
+<span class="n">root</span> <span class="o">=</span> <span class="s1">'input/'</span>                     <span class="c1"># Set the root directory for the data</span>
 
-<span class="c1"># Load data</span>
+<span class="c1"># Load all the data from csv files into dataframes</span>
 <span class="n">orders</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'orders.csv'</span><span class="p">)</span>
 <span class="n">order_products_train</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'order_products__train.csv'</span><span class="p">)</span>
 <span class="n">order_products_prior</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'order_products__prior.csv'</span><span class="p">)</span>
@@ -7559,68 +7570,15 @@ Explore purchase frequencies – which products are consistently being bought ov
 <span class="n">aisles</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'aisles.csv'</span><span class="p">)</span>
 <span class="n">departments</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'departments.csv'</span><span class="p">)</span>
 
-<span class="c1"># Basic exploration</span>
-<span class="c1"># print(orders.head())</span>
-<span class="c1"># print(order_products_train.head())</span>
-<span class="c1"># print(products.head())</span>
-
-<span class="c1"># Visualization</span>
+<span class="c1"># Create a countplot to visualize the distribution of orders across weekdays</span>
 <span class="n">sns</span><span class="o">.</span><span class="n">countplot</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="s1">'order_dow'</span><span class="p">,</span> <span class="n">data</span><span class="o">=</span><span class="n">orders</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Orders distribution across days of the week'</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 
-<span class="c1"># print(orders.info())</span>
-<span class="c1"># print(products.info())</span>
-<span class="c1"># orders.describe()</span>
-
-<span class="c1"># If you need to clear up some memory</span>
-<span class="k">del</span> <span class="n">orders</span><span class="p">,</span> <span class="n">order_products_train</span><span class="p">,</span> <span class="n">products</span><span class="p">,</span> <span class="n">aisles</span><span class="p">,</span> <span class="n">departments</span>
-<span class="n">gc</span><span class="o">.</span><span class="n">collect</span><span class="p">()</span>
-</pre></div>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedImage jp-OutputArea-output" tabindex="0">
-<img alt="No description has been provided for this image" class="jp-needs-light-background" src="data:image/png;base64,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"/>
-</div>
-</div>
-<div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[ ]:</div>
-<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
-<pre>34396</pre>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
-<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-<span class="kn">import</span> <span class="nn">seaborn</span> <span class="k">as</span> <span class="nn">sns</span>
-
-<span class="c1"># Set the root directory for the data</span>
-<span class="n">root</span> <span class="o">=</span> <span class="s1">'input/'</span>  <span class="c1"># assuming 'input' directory contains all your datasets</span>
-
-<span class="c1"># Load data</span>
-<span class="n">orders</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'orders.csv'</span><span class="p">)</span>
-
-<span class="n">sns</span><span class="o">.</span><span class="n">countplot</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="s1">'order_dow'</span><span class="p">,</span> <span class="n">data</span><span class="o">=</span><span class="n">orders</span><span class="p">)</span>
+<span class="c1"># Set the title, x-axis label and y-axis label for the plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Orders Distribution Across Weekdays'</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">'Day of the Week'</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">'Number of Orders'</span><span class="p">)</span>
+
+<span class="c1"># Display the plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
@@ -7647,10 +7605,21 @@ Explore purchase frequencies – which products are consistently being bought ov
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">sns</span><span class="o">.</span><span class="n">countplot</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="s1">'order_hour_of_day'</span><span class="p">,</span> <span class="n">data</span><span class="o">=</span><span class="n">orders</span><span class="p">)</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Create a countplot using seaborn to visualize the distribution of orders across different hours of the day</span>
+<span class="c1"># The 'x' parameter specifies the column from the 'orders' dataset to plot (in this case, the 'order_hour_of_day' column)</span>
+<span class="c1"># The 'data' parameter specifies the dataset to use for the plot (in this case, the 'orders' dataset)</span>
+<span class="n">sns</span><span class="o">.</span><span class="n">countplot</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="s1">'order_hour_of_day'</span><span class="p">,</span> <span class="n">data</span><span class="o">=</span><span class="n">orders</span><span class="p">)</span>
+
+<span class="c1"># Set the title of the plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Orders Distribution Across Hours of the Day'</span><span class="p">)</span>
+
+<span class="c1"># Set the label for the x-axis</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">'Hour of the Day'</span><span class="p">)</span>
+
+<span class="c1"># Set the label for the y-axis</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">'Number of Orders'</span><span class="p">)</span>
+
+<span class="c1"># Display the plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
@@ -7677,22 +7646,28 @@ Explore purchase frequencies – which products are consistently being bought ov
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Set the root directory for the data</span>
-<span class="n">root</span> <span class="o">=</span> <span class="s1">'input/'</span>  <span class="c1"># assuming 'input' directory contains all your datasets</span>
-
-<span class="c1"># Load data</span>
-<span class="n">orders</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'orders.csv'</span><span class="p">)</span>
-<span class="n">order_products_prior</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'order_products__prior.csv'</span><span class="p">)</span>
-<span class="n">products</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'products.csv'</span><span class="p">)</span>
-
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Merge the 'order_products_prior' DataFrame with 'products' DataFrame on the 'product_id' column, using a 'left' join and assign it to 'merged_data'</span>
 <span class="n">merged_data</span> <span class="o">=</span> <span class="n">order_products_prior</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span><span class="n">products</span><span class="p">,</span> <span class="n">on</span><span class="o">=</span><span class="s1">'product_id'</span><span class="p">,</span> <span class="n">how</span><span class="o">=</span><span class="s1">'left'</span><span class="p">)</span>
+
+<span class="c1"># Count the occurrences of each unique value in the 'product_name' column of 'merged_data' DataFrame and select the top 10 most frequently ordered products, assign it to 'product_counts'</span>
 <span class="n">product_counts</span> <span class="o">=</span> <span class="n">merged_data</span><span class="p">[</span><span class="s1">'product_name'</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
 
+<span class="c1"># Create a bar plot using seaborn library, setting the x-axis values as the index of 'product_counts', and the y-axis values as the values of 'product_counts'</span>
 <span class="n">sns</span><span class="o">.</span><span class="n">barplot</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">product_counts</span><span class="o">.</span><span class="n">index</span><span class="p">,</span> <span class="n">y</span><span class="o">=</span><span class="n">product_counts</span><span class="o">.</span><span class="n">values</span><span class="p">)</span>
+
+<span class="c1"># Set the title of the plot as 'Top 10 Most Ordered Products'</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Top 10 Most Ordered Products'</span><span class="p">)</span>
+
+<span class="c1"># Set the label for the x-axis as 'Products'</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">'Products'</span><span class="p">)</span>
+
+<span class="c1"># Set the label for the y-axis as 'Number of Orders'</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">'Number of Orders'</span><span class="p">)</span>
+
+<span class="c1"># Rotate the x-axis tick labels by 90 degrees for better readability</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xticks</span><span class="p">(</span><span class="n">rotation</span><span class="o">=</span><span class="mi">90</span><span class="p">)</span>
+
+<span class="c1"># Display the plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
@@ -7719,12 +7694,22 @@ Explore purchase frequencies – which products are consistently being bought ov
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="n">grouped_orders</span> <span class="o">=</span> <span class="n">orders</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s2">"order_dow"</span><span class="p">,</span> <span class="s2">"order_hour_of_day"</span><span class="p">])[</span><span class="s2">"order_id"</span><span class="p">]</span><span class="o">.</span><span class="n">aggregate</span><span class="p">(</span><span class="s2">"count"</span><span class="p">)</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Grouping the orders by "order_dow" (day of the week) and "order_hour_of_day"</span>
+<span class="n">grouped_orders</span> <span class="o">=</span> <span class="n">orders</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s2">"order_dow"</span><span class="p">,</span> <span class="s2">"order_hour_of_day"</span><span class="p">])[</span><span class="s2">"order_id"</span><span class="p">]</span><span class="o">.</span><span class="n">aggregate</span><span class="p">(</span><span class="s2">"count"</span><span class="p">)</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
+
+<span class="c1"># Creating a pivot table with "order_dow" as rows, "order_hour_of_day" as columns, and "order_id" as values</span>
 <span class="n">pivot_orders</span> <span class="o">=</span> <span class="n">grouped_orders</span><span class="o">.</span><span class="n">pivot</span><span class="p">(</span><span class="n">index</span><span class="o">=</span><span class="s1">'order_dow'</span><span class="p">,</span> <span class="n">columns</span><span class="o">=</span><span class="s1">'order_hour_of_day'</span><span class="p">,</span> <span class="n">values</span><span class="o">=</span><span class="s1">'order_id'</span><span class="p">)</span>
 
+<span class="c1"># Creating a figure with dimensions 12x6</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span><span class="mi">6</span><span class="p">))</span>
+
+<span class="c1"># Creating a heatmap using the pivot table data, color map is set to "YlGnBu"</span>
 <span class="n">sns</span><span class="o">.</span><span class="n">heatmap</span><span class="p">(</span><span class="n">pivot_orders</span><span class="p">,</span> <span class="n">cmap</span><span class="o">=</span><span class="s2">"YlGnBu"</span><span class="p">)</span>
+
+<span class="c1"># Setting the title of the plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Heatmap of Day of Week Vs Hour of Day'</span><span class="p">)</span>
+
+<span class="c1"># Displaying the plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
@@ -7751,24 +7736,38 @@ Explore purchase frequencies – which products are consistently being bought ov
 <div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Set the root directory for the data</span>
-<span class="n">root</span> <span class="o">=</span> <span class="s1">'input/'</span>
-
-<span class="c1"># Load data</span>
-<span class="n">departments</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'departments.csv'</span><span class="p">)</span>
-<span class="n">order_products_train</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">root</span> <span class="o">+</span> <span class="s1">'order_products__train.csv'</span><span class="p">)</span>
-
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Merging the 'order_products_prior' dataframe with the 'products' dataframe on the 'product_id' column </span>
+<span class="c1"># and then merging the result with the 'departments' dataframe on the 'department_id' column.</span>
 <span class="n">merged_data</span> <span class="o">=</span> <span class="n">order_products_prior</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span><span class="n">products</span><span class="p">,</span> <span class="n">on</span><span class="o">=</span><span class="s1">'product_id'</span><span class="p">,</span> <span class="n">how</span><span class="o">=</span><span class="s1">'left'</span><span class="p">)</span><span class="o">.</span><span class="n">merge</span><span class="p">(</span><span class="n">departments</span><span class="p">,</span> <span class="n">on</span><span class="o">=</span><span class="s1">'department_id'</span><span class="p">,</span> <span class="n">how</span><span class="o">=</span><span class="s1">'left'</span><span class="p">)</span>
-<span class="c1"># Sort the grouped dataframe by reorder ratios in descending order</span>
+
+<span class="c1"># Grouping by 'department' and calculating mean for the 'reordered' column.</span>
+<span class="n">grouped</span> <span class="o">=</span> <span class="n">merged_data</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s2">"department"</span><span class="p">)[</span><span class="s2">"reordered"</span><span class="p">]</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
+
+<span class="c1"># Sorting the 'grouped' dataframe by the 'reordered' column in descending order.</span>
 <span class="n">grouped</span> <span class="o">=</span> <span class="n">grouped</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">by</span><span class="o">=</span><span class="s1">'reordered'</span><span class="p">,</span> <span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 
+<span class="c1"># Creating a figure with dimensions 12x8 inches</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span><span class="mi">8</span><span class="p">))</span>
+
+<span class="c1"># Defining a color for the plot</span>
 <span class="n">color</span> <span class="o">=</span> <span class="p">(</span><span class="mf">0.3</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mf">0.7</span><span class="p">,</span> <span class="mf">0.8</span><span class="p">)</span>
+
+<span class="c1"># Creating a point plot using the 'department' values as x-axis and the 'reordered' values as y-axis, with the specified color</span>
 <span class="n">sns</span><span class="o">.</span><span class="n">pointplot</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">grouped</span><span class="p">[</span><span class="s1">'department'</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">,</span> <span class="n">y</span><span class="o">=</span><span class="n">grouped</span><span class="p">[</span><span class="s1">'reordered'</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="p">)</span>
+
+<span class="c1"># Setting the label for the y-axis</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">'Reorder ratio'</span><span class="p">)</span>
+
+<span class="c1"># Setting the label for the x-axis</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">'Department'</span><span class="p">)</span>
+
+<span class="c1"># Setting the title of the plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Reorder ratio across different departments'</span><span class="p">)</span>
+
+<span class="c1"># Rotating the x-axis labels by 90 degrees for better readability</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xticks</span><span class="p">(</span><span class="n">rotation</span><span class="o">=</span><span class="mi">90</span><span class="p">)</span>
+
+<span class="c1"># Displaying the plot</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre></div>
 </div>
