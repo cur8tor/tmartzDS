@@ -1,0 +1,1001 @@
+product_id,order_count,reorder_count,perc_reorder,product_name,aisle_id,department_id,popularity_rank,cart_order
+24852,491291,415166,84.51,Banana,24,4,1,4.89
+13176,394930,329275,83.38,Bag of Organic Bananas,24,4,2,5.1
+21137,275577,214448,77.82,Organic Strawberries,24,4,3,7.25
+21903,251705,194939,77.45,Organic Baby Spinach,123,4,4,7.43
+47209,220877,176173,79.76,Organic Hass Avocado,24,4,5,6.78
+47766,184224,140270,76.14,Organic Avocado,24,4,6,6.44
+47626,160792,112178,69.77,Large Lemon,24,4,7,7.95
+16797,149445,104588,69.98,Strawberries,24,4,8,7.12
+26209,146660,100002,68.19,Limes,24,4,9,8.58
+27845,142813,118684,83.1,Organic Whole Milk,84,16,10,5.43
+27966,142603,109688,76.92,Organic Raspberries,123,4,11,7.21
+22935,117716,82166,69.8,Organic Yellow Onion,83,4,12,8.52
+24964,113936,77704,68.2,Organic Garlic,83,4,13,8.77
+45007,109412,75431,68.94,Organic Zucchini,83,4,14,9.0
+39275,105026,66306,63.13,Organic Blueberries,123,4,15,8.19
+49683,99728,69022,69.21,Cucumber Kirby,83,4,16,7.66
+28204,92889,66237,71.31,Organic Fuji Apple,24,4,17,7.01
+5876,91251,63046,69.09,Organic Lemon,24,4,18,8.06
+40706,88078,57957,65.8,Organic Grape Tomatoes,123,4,19,9.46
+8277,87272,64134,73.49,Apple Honeycrisp Organic,24,4,20,7.65
+4920,86748,58046,66.91,Seedless Red Grapes,123,4,21,8.21
+30391,85005,59058,69.48,Organic Cucumber,83,4,22,8.59
+45066,83320,60473,72.58,Honeycrisp Apple,24,4,23,7.39
+42265,80493,52951,65.78,Organic Baby Carrots,123,4,24,8.7
+44632,79245,61175,77.2,Sparkling Water Grapefruit,115,7,25,6.22
+49235,79006,61801,78.22,Organic Half & Half,53,16,26,6.08
+19057,78056,59489,76.21,Organic Large Extra Fancy Fuji Apple,24,4,27,7.51
+4605,76929,45817,59.56,Yellow Onions,83,4,28,8.23
+21616,75752,51869,68.47,Organic Baby Arugula,123,4,29,8.48
+37646,75655,55506,73.37,Organic Gala Apples,24,4,30,7.59
+17794,75233,48215,64.09,Carrots,83,4,31,8.62
+27104,74235,47788,64.37,Fresh Cauliflower,83,4,32,9.13
+30489,74172,53910,72.68,Original Hummus,67,20,33,8.41
+31717,73050,45411,62.16,Organic Cilantro,16,4,34,9.15
+27086,71641,54626,76.25,Half & Half,53,16,35,6.44
+46979,71151,44042,61.9,Asparagus,83,4,36,8.8
+8518,70804,43757,61.8,Organic Red Onion,83,4,37,9.37
+44359,70714,44621,63.1,Organic Small Bunch Celery,83,4,38,9.17
+28985,70076,48785,69.62,Michigan Organic Kale,83,4,39,7.5
+41950,66827,43983,65.82,Organic Tomato Cluster,83,4,40,8.64
+26604,64589,42138,65.24,Organic Blackberries,24,4,41,8.33
+5077,63114,46586,73.81,100% Whole Wheat Bread,112,3,42,7.05
+34126,63021,38644,61.32,Organic Italian Parsley Bunch,16,4,43,9.2
+22035,61669,47204,76.54,Organic Whole String Cheese,21,16,44,8.07
+39877,61116,43291,70.83,Organic Granny Smith Apple,24,4,45,7.99
+43352,60919,41835,68.67,Raspberries,32,4,46,6.19
+35951,60071,45558,75.84,Organic Unsweetened Almond Milk,91,16,47,6.63
+10749,59878,39567,66.08,Organic Red Bell Pepper,83,4,48,8.99
+19660,58312,47392,81.27,Spring Water,115,7,49,4.55
+9076,58269,33999,58.35,Blueberries,116,1,50,8.32
+24184,58185,36773,63.2,Red Peppers,83,4,51,8.63
+21938,58005,35350,60.94,Green Bell Pepper,83,4,52,9.22
+43961,57831,36582,63.26,Organic Peeled Whole Baby Carrots,123,4,53,9.19
+34969,56643,36296,64.08,Red Vine Tomato,83,4,54,8.22
+48679,54507,36087,66.21,Organic Garnet Sweet Potato (Yam),83,4,55,9.45
+46667,54094,31089,57.47,Organic Ginger Root,83,4,56,9.0
+12341,52497,39138,74.55,Hass Avocados,32,4,57,5.26
+25890,52369,34796,66.44,Boneless Skinless Chicken Breasts,49,12,58,7.51
+31506,52323,24984,47.75,Extra Virgin Olive Oil,19,13,59,9.01
+5450,52124,35113,67.36,Small Hass Avocado,24,4,60,7.48
+39928,52021,37156,71.43,Organic Kiwi,24,4,61,8.88
+24838,51738,38958,75.3,Unsweetened Almondmilk,91,16,62,6.12
+22825,50808,35088,69.06,Organic D'Anjou Pears,24,4,63,9.2
+5785,49374,39820,80.65,Organic Reduced Fat 2% Milk,84,16,64,5.75
+35221,48512,36014,74.24,Lime Sparkling Water,115,7,65,6.7
+28842,47450,27019,56.94,Bunched Cilantro,16,4,66,8.83
+33731,46932,28702,61.16,Grated Parmesan,21,16,67,9.51
+8424,44976,29211,64.95,Broccoli Crown,83,4,68,8.53
+27521,44828,31248,69.71,Organic Lacinato (Dinosaur) Kale,83,4,69,8.16
+33198,44737,32848,73.42,Sparkling Natural Mineral Water,115,7,70,6.11
+8174,44701,28620,64.03,Organic Navel Orange,24,4,71,8.8
+44142,44477,24534,55.16,Red Onion,83,4,72,8.57
+20114,44460,25922,58.3,Jalapeno Peppers,83,4,73,8.82
+27344,43261,28551,66.0,Uncured Genoa Salami,96,20,74,8.8
+11520,42274,32821,77.64,Large Alfresco Eggs,86,16,75,5.79
+29487,42165,26965,63.95,Roma Tomato,83,4,76,7.91
+18465,41812,30012,71.78,Organic Grade A Free Range Large Brown Eggs,86,16,77,6.68
+28199,41303,24970,60.46,"Clementines, Bag",123,4,78,8.82
+15290,41052,24781,60.36,Orange Bell Pepper,83,4,79,9.11
+46906,40498,27037,66.76,Grape White/Green Seedless,24,4,80,8.48
+9839,40373,28825,71.4,Organic Broccoli,83,4,81,8.18
+27156,39577,23356,59.01,Organic Black Beans,59,15,82,10.03
+3957,39271,30966,78.85,100% Raw Coconut Water,31,7,83,6.19
+43122,38686,27378,70.77,Organic Bartlett Pear,24,4,84,9.28
+23909,38631,30036,77.75,2% Reduced Fat Milk,84,16,85,5.44
+34358,38537,22700,58.9,Garlic,83,4,86,8.66
+4799,37689,24259,64.37,Shredded Parmesan,21,16,87,9.3
+9387,37566,24478,65.16,Granny Smith Apples,24,4,88,7.48
+16759,37562,21797,58.03,Organic Carrot Bunch,83,4,89,9.07
+196,37298,29012,77.78,Soda,77,7,90,3.72
+42736,37102,20678,55.73,Unsalted Butter,36,16,91,8.31
+4210,36968,28837,78.01,Whole Milk,84,16,92,5.19
+38689,36869,31394,85.15,Organic Reduced Fat Milk,84,16,93,4.72
+41787,36620,23814,65.03,Bartlett Pears,24,4,94,8.21
+47144,36048,25775,71.5,Unsweetened Original Almond Breeze Almond Milk,91,16,95,6.12
+41220,36028,22298,61.89,Organic Romaine Lettuce,83,4,96,8.52
+7781,35551,26020,73.19,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,21,16,97,8.16
+33000,35384,23300,65.85,Pure Irish Butter,36,16,98,6.9
+20995,34248,22331,65.2,Organic Broccoli Florets,116,1,99,8.87
+21709,34211,25479,74.48,Sparkling Lemon Water,115,7,100,6.88
+40604,33800,18927,56.0,Feta Cheese Crumbles,21,16,101,9.85
+19678,33708,20653,61.27,Organic Russet Potato,83,4,102,9.23
+30233,33242,25849,77.76,Organic Large Brown Grade AA Cage Free Eggs,86,16,103,6.23
+34243,33143,21487,64.83,Organic Baby Broccoli,83,4,104,8.88
+37687,33130,22167,66.91,Organic Spring Mix,123,4,105,7.04
+24489,32658,20548,62.92,Organic Whole Strawberries,116,1,106,8.93
+42828,32270,22297,69.1,Whipped Cream Cheese,108,16,107,9.26
+432,32212,23519,73.01,Vanilla Almond Breeze Almond Milk,91,16,108,5.91
+6184,32194,24434,75.9,Clementines,32,4,109,4.09
+5479,32069,26119,81.45,Italian Sparkling Mineral Water,115,7,110,5.86
+16185,31432,19369,61.62,Sharp Cheddar Cheese,21,16,111,8.98
+42768,31196,17448,55.93,Organic Garbanzo Beans,59,15,112,9.88
+17948,30970,19265,62.21,Frozen Organic Wild Blueberries,116,1,113,8.89
+33754,30866,23156,75.02,Total 2% with Strawberry Lowfat Greek Strained Yogurt,120,16,114,7.46
+8193,30731,17311,56.33,Russet Potato,83,4,115,8.67
+19348,30565,23531,76.99,Fat Free Milk,84,16,116,5.54
+26369,30517,19596,64.21,Organic Roma Tomato,83,4,117,8.48
+42585,30310,20171,66.55,Organic Extra Firm Tofu,14,20,118,8.77
+14992,30229,17639,58.35,Green Beans,83,4,119,9.24
+14947,30009,24410,81.34,Pure Sparkling Water,115,7,120,5.81
+22963,29507,19624,66.51,Organic Roasted Turkey Breast,96,20,121,8.67
+28849,29174,16958,58.13,No Salt Added Black Beans,59,15,122,9.62
+8021,29047,17204,59.23,100% Recycled Paper Towels,54,17,123,8.82
+1463,28850,23404,81.12,Organic Milk,84,16,124,5.41
+25659,28300,15051,53.18,Organic Coconut Milk,91,16,125,9.24
+21405,28267,17423,61.64,"Organic Red Radish, Bunch",83,4,126,9.42
+5025,27981,14589,52.14,Green Onions,83,4,127,8.71
+41844,27959,16043,57.38,Honey Nut Cheerios,121,14,128,9.81
+43789,27890,14289,51.23,Organic Basil,16,4,129,9.89
+46676,27871,19018,68.24,Total 0% Nonfat Greek Yogurt,120,16,130,7.22
+31343,27813,16562,59.55,Shredded Mild Cheddar Cheese,21,16,131,9.45
+42701,27738,15477,55.8,Organic Sour Cream,108,16,132,9.67
+11777,27713,17873,64.49,Red Raspberries,123,4,133,8.2
+38293,27679,17843,64.46,Ground Turkey Breast,35,12,134,8.93
+43295,27555,19346,70.21,Unsweetened Vanilla Almond Milk,91,16,135,6.43
+36011,27402,22824,83.29,Organic Fat Free Milk,84,16,136,5.56
+39475,27394,19362,70.68,Total Greek Strained Yogurt,120,16,137,7.58
+20842,27200,18829,69.22,Total 0% Greek Yogurt,120,16,138,6.7
+32689,26962,16121,59.79,Romaine Hearts,123,4,139,7.94
+2295,26625,14447,54.26,Yellow Bell Pepper,83,4,140,9.95
+32655,26575,20564,77.38,Organic Large Grade AA Brown Eggs,86,16,141,6.12
+46802,26027,14939,57.4,Pineapple Chunks,116,1,142,8.66
+25146,25972,16465,63.4,Original Orange Juice,31,7,143,7.17
+13870,25941,16303,62.85,Lightly Salted Baked Snap Pea Crisps,107,19,144,9.53
+18531,25530,15241,59.7,Organic Heavy Whipping Cream,53,16,145,7.9
+31553,25414,12346,48.58,Fresh Ginger Root,83,4,146,8.91
+5212,25388,18800,74.05,Watermelon Chunks,123,4,147,7.56
+260,25115,15922,63.4,Cantaloupe,24,4,148,9.95
+39408,25045,15641,62.45,Gala Apples,24,4,149,7.41
+10246,24888,13067,52.5,Organic Celery Hearts,83,4,150,9.61
+36695,24818,16754,67.51,Organic Hothouse Cucumbers,83,4,151,8.85
+24830,24794,15226,61.41,Organic Romaine,123,4,152,8.93
+38383,24491,15342,62.64,Organic White Onions,83,4,153,8.78
+43768,24331,14358,59.01,Organic Bell Pepper,83,4,154,10.17
+11182,24276,14670,60.43,Baby Spinach,123,4,155,8.24
+1940,24175,18677,77.26,Organic 2% Reduced Fat Milk,84,16,156,5.63
+18362,23944,17143,71.6,Organic Bread with 21 Whole Grains,112,3,157,7.78
+21288,23941,15035,62.8,Blackberries,24,4,158,6.68
+18523,23844,17396,72.96,Total 2% All Natural Greek Strained Yogurt with Honey,120,16,159,7.61
+6046,23533,15628,66.41,Boneless Skinless Chicken Breast,35,12,160,7.99
+44683,23424,12631,53.92,Brussels Sprouts,83,4,161,8.84
+29987,22943,11888,51.82,Shredded Mozzarella,21,16,162,9.94
+890,22834,10933,47.88,Organic Diced Tomatoes,81,15,163,9.73
+43772,22576,14925,66.11,Cherubs Heavenly Salad Tomatoes,83,4,164,8.81
+23734,22562,12063,53.47,Sour Cream,108,16,165,9.42
+30450,22340,12664,56.69,Creamy Almond Butter,88,13,166,7.73
+38777,22335,13803,61.8,Organic Green Seedless Grapes,123,4,167,9.19
+38456,22296,12525,56.18,Large Grapefruit,24,4,168,9.22
+7948,22252,12538,56.35,Organic Unsalted Butter,36,16,169,8.62
+44910,22193,13389,60.33,Organic Spring Mix Salad,123,4,170,8.44
+46969,22137,15111,68.26,Organic Bosc Pear,24,4,171,8.98
+47734,22137,11492,51.91,Organic Green Cabbage,83,4,171,9.01
+26620,22132,15051,68.01,Peach Pear Flavored Sparkling Water,115,7,173,7.32
+38159,21993,13122,59.66,Organic Yellow Peaches,24,4,174,9.74
+47672,21610,13327,61.67,Uncured Hickory Smoked Sunday Bacon,106,12,175,8.34
+26165,21582,16617,76.99,Electrolyte Enhanced Water,115,7,176,5.58
+44987,21562,10899,50.55,Heavy Whipping Cream,53,16,177,8.22
+30776,21562,16524,76.63,Organic Raw Kombucha Gingerade,31,7,177,6.81
+4957,21405,16092,75.18,Total 2% Lowfat Greek Strained Yogurt With Blueberry,120,16,179,7.96
+35939,21112,11997,56.83,Organic Jalapeno Pepper,83,4,180,9.36
+28289,21041,13046,62.0,Organic Shredded Carrots,123,4,181,9.25
+16953,21024,11047,52.54,Creamy Peanut Butter,88,13,182,8.42
+14678,20981,11845,56.46,Organic Frozen Peas,116,1,183,9.95
+40310,20966,13376,63.8,Oven Roasted Turkey Breast,96,20,184,8.44
+16349,20921,11849,56.64,Organic Yams,83,4,185,9.01
+37067,20915,12501,59.77,Organic Banana,24,4,186,6.12
+44422,20887,11285,54.03,Organic Old Fashioned Rolled Oats,130,14,187,9.16
+29447,20770,17753,85.47,"Milk, Organic, Vitamin D",84,16,188,4.57
+23375,20752,13025,62.77,Marinara Sauce,9,9,189,9.6
+2078,20582,13644,66.29,Unsalted Pure Irish Butter,36,16,190,7.15
+19048,20562,9603,46.7,Organic Butternut Squash,83,4,191,10.05
+32864,20553,12141,59.07,Organic Baby Rainbow Carrots,123,4,192,9.49
+33787,20552,15527,75.55,Total 2% Lowfat Greek Strained Yogurt with Peach,120,16,193,7.91
+13984,20487,11176,54.55,Organic Mint,16,4,194,9.29
+41290,20483,13728,67.02,Lemonade,31,7,195,7.46
+8859,20468,15523,75.84,Natural Spring Water,115,7,196,4.93
+23165,20435,10650,52.12,Organic Leek,83,4,197,9.62
+48364,20417,10825,53.02,Sweet Onion,83,4,198,8.49
+17600,20344,14242,70.01,"YoKids Squeezers Organic Low-Fat Yogurt, Strawberry",120,16,199,8.64
+33120,20234,14371,71.02,Organic Egg Whites,86,16,200,6.82
+39812,20209,8393,41.53,Organic Thyme,16,4,201,9.63
+31683,20164,12429,61.64,Original No Pulp 100% Florida Orange Juice,31,7,202,7.21
+26940,20016,11007,54.99,Organic Large Green Asparagus,83,4,203,9.83
+35108,19971,12089,60.53,Salted Butter,36,16,204,8.44
+28465,19962,14830,74.29,Icelandic Style Skyr Blueberry Non-fat Yogurt,120,16,205,7.7
+26283,19400,11294,58.22,White Corn,83,4,206,9.2
+38739,19198,11445,59.62,Hass Avocado,83,4,207,7.74
+37158,19172,13197,68.83,Chicken & Maple Breakfast Sausage,52,1,208,8.24
+3952,19145,12733,66.51,Organic Broccoli Crowns,83,4,209,8.81
+2086,19052,11430,59.99,Sustainably Soft Bath Tissue,54,17,210,8.51
+18370,19041,11508,60.44,Organic Shredded Mozzarella,21,16,211,10.1
+45,19038,12505,65.68,European Cucumber,83,4,212,8.05
+41665,19031,12210,64.16,Organic Mexican Blend Finely Shredded Cheese,21,16,213,9.54
+35547,18977,12134,63.94,Organic Baby Kale,83,4,214,7.99
+10957,18914,13546,71.62,Fridge Pack Cola,77,7,215,5.78
+2966,18912,12231,64.67,Pure Coconut Water,98,7,216,7.69
+24799,18899,13018,68.88,Vanilla Skyr Nonfat Yogurt,120,16,217,7.87
+43154,18847,14720,78.1,Sparkling Mineral Water,115,7,218,4.34
+43713,18800,10650,56.65,Organic Creamy Peanut Butter,88,13,219,9.88
+10132,18736,13173,70.31,Organic American Cheese Singles,21,16,220,8.48
+40571,18692,14002,74.91,Total 2% Greek Strained Yogurt with Cherry 5.3 oz,120,16,221,7.87
+40396,18614,12305,66.11,Guacamole,67,20,222,8.01
+18027,18487,11631,62.91,Ezekiel 4:9 Bread Organic Sprouted Whole Grain,112,3,223,7.99
+1158,18445,10377,56.26,Mango Chunks,116,1,224,9.05
+25931,18382,13183,71.72,Organic Baby Spinach Salad,123,4,225,7.3
+7021,18336,7698,41.98,Organic Tomato Paste,81,15,226,9.96
+42342,18260,10872,59.54,Roasted Turkey Breast,96,20,227,8.97
+45535,18252,8744,47.91,Organic Low Sodium Chicken Broth,69,15,228,9.35
+13629,18195,12414,68.23,Organic Snipped Green Beans,83,4,229,9.72
+15937,18179,9063,49.85,Shallot,83,4,230,9.24
+42450,18132,12675,69.9,Macaroni & Cheese,38,1,231,7.86
+20119,18125,12776,70.49,Sparkling Water Berry,115,7,232,7.42
+32478,18083,13831,76.49,Reduced Fat 2% Milk,84,16,233,4.17
+48745,17920,9666,53.94,Globe Eggplant,83,4,234,9.92
+21019,17829,9798,54.96,Roasted Red Pepper Hummus,67,20,235,9.18
+48205,17707,9726,54.93,Spinach,123,4,236,8.26
+39619,17596,9323,52.98,Organic Tomato Basil Pasta Sauce,9,9,237,10.42
+34050,17568,12891,73.38,Orange Juice,31,7,238,6.59
+34448,17534,11634,66.35,Original Veggie Straws,50,19,239,10.34
+17461,17462,11797,67.56,Air Chilled Organic Boneless Skinless Chicken Breasts,35,12,240,8.39
+45603,17435,13632,78.19,Trilogy Kombucha Drink,31,7,241,6.65
+45633,17360,10469,60.31,Organic Beef Hot Dogs,106,12,242,9.25
+31040,17333,10156,58.59,Sea Salt Pita Chips,107,19,243,9.7
+30169,17274,11953,69.2,Total 2% All Natural Plain Greek Yogurt,120,16,244,7.32
+38400,17168,9433,54.95,Asparation/Broccolini/Baby Broccoli,83,4,245,8.48
+13646,17061,12417,72.78,Lemon Hummus,67,20,246,8.15
+21267,17056,11789,69.12,Sourdough Bread,112,3,247,7.85
+40174,17042,12969,76.1,2% Reduced Fat Organic Milk,84,16,248,5.7
+5818,17028,9400,55.2,White Onion,83,4,249,8.14
+36865,16953,12659,74.67,Non Fat Raspberry Yogurt,120,16,250,7.85
+17872,16874,10159,60.21,Total 2% Lowfat Plain Greek Yogurt,120,16,251,8.2
+26790,16780,12043,71.77,Organic AppleApple,99,15,252,9.63
+23288,16664,12036,72.23,Distilled Water,115,7,253,5.62
+39984,16585,8250,49.74,Organic Dill,16,4,254,9.67
+21376,16584,10035,60.51,Pretzel Crisps Original Deli Style Pretzel Crackers,107,19,255,10.26
+46654,16577,9740,58.76,Organic Grade A Large Brown Eggs,86,16,256,7.5
+14084,16479,13370,81.13,Organic Unsweetened Vanilla Almond Milk,91,16,257,5.79
+32734,16453,8479,51.53,Spaghetti,131,9,258,10.01
+37766,16375,10077,61.54,XL Emerald White Seedless Grapes,123,4,259,8.53
+12206,16337,7210,44.13,Basil Pesto,9,9,260,10.22
+33768,16316,11104,68.06,Sinfully Sweet Campari Tomatoes,83,4,261,6.37
+28934,16145,9905,61.35,Frozen Broccoli Florets,116,1,262,8.51
+39993,16075,9091,56.55,Vine Ripe Tomatoes,83,4,263,8.42
+6187,16015,9757,60.92,Raisin Bran Cereal,121,14,264,9.32
+43086,15942,10177,63.84,Super Greens Salad,123,4,265,8.0
+6348,15941,10730,67.31,Mini Original Babybel Cheese,21,16,266,9.4
+329,15939,12733,79.89,Organic Whole Grassmilk Milk,84,16,267,5.05
+18441,15914,6208,39.01,Organic Ketchup,72,13,268,9.99
+5646,15905,10102,63.51,Organic Turkey Bacon,106,12,269,8.99
+42356,15875,7827,49.3,Strawberry Preserves,88,13,270,10.07
+6104,15821,11418,72.17,Whole Milk Plain Yogurt,120,16,271,6.91
+48775,15645,7938,50.74,Organic Red Cabbage,83,4,272,10.15
+10673,15642,10028,64.11,Original Nooks & Crannies English Muffins,93,3,273,7.85
+651,15621,9361,59.93,Organic Salted Butter,36,16,274,8.4
+25340,15592,9512,61.01,Large Yellow Flesh Nectarine,24,4,275,9.18
+47977,15558,11353,72.97,Grapefruit Sparkling Water,115,7,276,5.9
+19508,15514,6974,44.95,Corn Tortillas,128,3,277,9.78
+13535,15401,7611,49.42,Organic Medium Salsa,51,13,278,9.38
+40709,15397,9623,62.5,Sea Salt & Vinegar Potato Chips,107,19,279,9.54
+39180,15352,12914,84.12,Organic Lowfat 1% Milk,84,16,280,5.01
+36070,15326,8819,57.54,"Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale",123,4,281,8.81
+27336,15294,7703,50.37,Organic Rainbow Carrots,123,4,282,9.81
+19677,15276,11325,74.14,Original Pure Creamy Almond Milk,91,16,283,6.26
+10017,15250,9377,61.49,Tilapia Filet,39,12,284,8.74
+28156,15209,8539,56.14,Total 0% Nonfat Plain Greek Yogurt,120,16,285,8.12
+13829,15185,8151,53.68,Mild Salsa,51,13,286,10.42
+42244,15152,11138,73.51,Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt,120,16,287,7.31
+27695,15131,10226,67.58,Natural Chicken & Sage Breakfast Sausage,106,12,288,8.51
+49520,15090,10718,71.03,Orange Sparkling Water,115,7,289,6.99
+49383,15074,7993,53.03,Organic Bunch Beets,83,4,290,9.93
+6873,15063,8587,57.01,Organic Iceberg Lettuce,83,4,291,9.1
+8571,15031,11801,78.51,Baby Cucumbers,32,4,292,3.45
+40545,14894,8534,57.3,Berry Medley,116,1,293,8.67
+16083,14874,11452,76.99,Organic Large Brown Eggs,86,16,294,6.66
+24561,14851,10349,69.69,Organic Cheese Frozen Pizza,79,1,295,9.12
+11782,14851,7997,53.85,Bing Cherries,24,4,295,9.03
+49075,14848,8548,57.57,Organic Brown Rice,38,1,297,9.7
+13249,14804,11414,77.1,Skim Milk,84,16,298,6.13
+30720,14777,7604,51.46,Sugar Snap Peas,83,4,299,9.94
+40199,14762,8866,60.06,Chocolate Chip Cookies,61,19,300,6.88
+24024,14692,11970,81.47,1% Lowfat Milk,84,16,301,5.66
+35921,14650,10301,70.31,Organic Large Grade A Brown Eggs,86,16,302,6.63
+17795,14614,8627,59.03,Organic Green Leaf Lettuce,83,4,303,8.6
+17122,14550,9849,67.69,Honeycrisp Apples,24,4,304,6.26
+8670,14480,6268,43.29,Diced Tomatoes,81,15,305,10.14
+35561,14413,9048,62.78,Organic Tortilla Chips,107,19,306,6.1
+25588,14397,7325,50.88,Seedless Small Watermelon,24,4,307,8.35
+11422,14347,10533,73.42,Plain Greek Yogurt,120,16,308,6.93
+31915,14334,9923,69.23,Organic Red Delicious Apple,24,4,309,7.68
+14233,14281,10820,75.77,Natural Artesian Water,115,7,310,5.01
+30827,14264,10352,72.57,Seedless Cucumbers,32,4,311,4.5
+35042,14259,7107,49.84,Black Beans,59,15,312,9.96
+3599,14237,9168,64.4,Baked Aged White Cheddar Rice and Corn Puffs,23,19,313,9.78
+7963,14207,9542,67.16,Gluten Free Whole Grain Bread,58,1,314,7.48
+25466,14183,10248,72.26,Water,115,7,315,5.54
+44449,14181,6243,44.02,Organic Tomato Sauce,81,15,316,9.87
+42445,14160,10657,75.26,Organic Plain Whole Milk Yogurt,120,16,317,6.8
+36550,14149,9962,70.41,Organic Extra Large Grade AA Brown Eggs,86,16,318,7.13
+17706,14109,9566,67.8,Organic Whole Grain Wheat English Muffins,93,3,319,9.05
+19019,14079,8767,62.27,Uncured Slow Cooked Ham,96,20,320,9.12
+20082,14051,11539,82.12,Organic Whole Milk with DHA Omega-3,84,16,321,5.41
+42625,14036,6187,44.08,"Flat Parsley, Bunch",16,4,322,8.95
+21295,14022,6500,46.36,Organic Spaghetti Squash,83,4,323,9.49
+33401,14018,7715,55.04,Goat Cheese Crumbles,21,16,324,9.52
+1511,13972,11106,79.49,2% Reduced Fat DHA Omega-3 Reduced Fat Milk,84,16,325,5.65
+8048,13965,10715,76.73,Packaged Grape Tomatoes,32,4,326,3.98
+16965,13908,7516,54.04,Chocolate Ice Cream,37,1,327,7.86
+23537,13853,3823,27.6,Light Brown Sugar,17,13,328,9.5
+5194,13847,8246,59.55,Organic Bunny Fruit Snacks Berry Patch,50,19,329,10.3
+21195,13836,6861,49.59,Organic Extra Virgin Olive Oil,19,13,330,6.89
+4562,13807,7725,55.95,English Seedless Cucumber,83,4,331,9.08
+2825,13756,8977,65.26,Organic Original Hommus,67,20,332,9.52
+15872,13725,7985,58.18,Celery Hearts,83,4,333,8.87
+7751,13664,4450,32.57,Tomato Ketchup,72,13,334,9.62
+38928,13651,11287,82.68,0% Greek Strained Yogurt,120,16,335,3.49
+18288,13597,8301,61.05,Sea Salt Potato Chips,107,19,336,9.25
+40723,13564,8854,65.28,Organic Cripps Pink Apples,24,4,337,7.97
+13380,13513,7465,55.24,Organic Blue Corn Tortilla Chips,107,19,338,9.47
+9339,13476,8656,64.23,Organic Chicken & Apple Sausage,106,12,339,9.47
+22395,13448,6103,45.38,Tomato Sauce,81,15,340,10.02
+28993,13426,7328,54.58,Iceberg Lettuce,83,4,341,8.88
+46720,13376,6233,46.6,Organic Free Range Chicken Broth,69,15,342,9.99
+15902,13374,9044,67.62,100 Calorie  Per Bag Popcorn,23,19,343,8.63
+4472,13367,9632,72.06,Toasted Coconut Almondmilk Blend,91,16,344,6.13
+38164,13366,8923,66.76,Almonds & Sea Salt in Dark Chocolate,45,19,345,9.08
+3376,13330,6599,49.5,Organic Whole Kernel Sweet Corn No Salt Added,81,15,346,10.54
+35140,13292,8037,60.46,Organic Whole Cashews,117,19,347,9.48
+7175,13215,7261,54.95,Organic Whipped Naturally Buttery Spread,91,16,348,9.41
+19706,13189,7993,60.6,Organic Nectarine,24,4,349,9.93
+12916,13170,6879,52.23,Ginger Ale,77,7,350,7.32
+2855,13133,9454,71.99,Organic Good Seed Bread,112,3,351,6.7
+40516,13119,6159,46.95,Organic Romaine Hearts,123,4,352,9.65
+13166,13119,10984,83.73,"Organic Milk Reduced Fat, 2% Milkfat",84,16,352,4.88
+40332,13114,8122,61.93,"Cage Free Brown Eggs-Large, Grade A",86,16,354,6.7
+29662,13101,6244,47.66,Potato Yukon Gold Organic,83,4,355,9.54
+5782,13088,8367,63.93,Grade A Large White Eggs,86,16,356,6.6
+13740,13043,7822,59.97,Organic Summer Strawberry Bunny Fruit Snacks,50,19,357,10.02
+19691,13036,8151,62.53,Green Seedless Grapes,32,4,358,6.45
+5258,12994,9029,69.49,Sparkling Water,115,7,359,4.26
+5134,12943,7827,60.47,Organic Thompson Seedless Raisins,117,19,360,11.22
+45200,12936,6473,50.04,Organic Cauliflower,83,4,361,9.4
+7503,12922,7183,55.59,Whole Almonds,117,19,362,9.55
+12456,12912,7994,61.91,Organic Sunday Bacon,106,12,363,9.06
+10644,12897,5336,41.37,Italian Extra Virgin Olive Oil,19,13,364,9.48
+33129,12890,6793,52.7,Classic Hummus,67,20,365,9.58
+13575,12883,10025,77.82,Apples,24,4,366,3.76
+21174,12836,7123,55.49,I Heart Baby Kale,123,4,367,8.77
+20955,12774,7475,58.52,Cereal,121,14,368,7.13
+13198,12765,7986,62.56,85% Lean Ground Beef,122,12,369,8.03
+44570,12757,7210,56.52,Kale Greens,83,4,370,7.93
+39561,12752,7759,60.85,Crackers Cheddar Bunnies Snack Packs,78,19,371,10.88
+44765,12656,9204,72.72,Colby Cheese Sticks,21,16,372,8.89
+46584,12638,8629,68.28,YoKids Blueberry & Strawberry/Vanilla Yogurt,120,16,373,8.47
+37710,12601,9862,78.26,Trail Mix,125,19,374,3.81
+22124,12594,9120,72.42,Total 0% Raspberry Yogurt,120,16,375,7.53
+3464,12565,6361,50.62,"Organic Butterhead (Boston, Butter, Bibb) Lettuce",83,4,376,9.63
+7559,12561,7479,59.54,Cinnamon Rolls with Icing,105,13,377,9.84
+32691,12560,6239,49.67,Vanilla Ice Cream,37,1,378,8.55
+43662,12560,8693,69.21,"Yogurt, Strained Low-Fat, Coconut",120,16,378,8.02
+35898,12543,4957,39.52,Original Hot Sauce,72,13,380,9.36
+10070,12530,10092,80.54,Organic 1% Low Fat Milk,84,16,381,5.39
+36735,12513,7619,60.89,Organic Roasted Sliced Chicken Breast,96,20,382,9.03
+34262,12439,8186,65.81,Hint Of Sea Salt Almond Nut Thins,78,19,383,8.74
+4421,12432,6826,54.91,Organic Beef Uncured Hot Dogs,106,12,384,9.78
+37029,12398,7492,60.43,Cream Cheese Spread,108,16,385,10.17
+18918,12366,6529,52.8,Organic Chopped Spinach,116,1,386,9.46
+42719,12360,7614,61.6,Natural Premium Coconut Water,98,7,387,7.09
+11408,12357,5868,47.49,Crushed Tomatoes,81,15,388,9.58
+18234,12318,7140,57.96,Organic Spinach Bunch,83,4,389,8.17
+45123,12282,8352,68.0,Organic 21 Grain Thin Sliced Bread,112,3,390,7.87
+44560,12249,8317,67.9,Kids Organic Chocolate Chip ZBars,3,19,391,9.52
+23029,12242,7795,63.67,Organic Uncured Sliced Black Forest Ham,96,20,392,9.65
+1025,12193,6188,50.75,Organic Fresh Basil,16,4,393,9.63
+47141,12150,8089,66.58,Cola,77,7,394,5.95
+18811,12128,8021,66.14,Organic Apple Juice,98,7,395,7.88
+9092,12126,5785,47.71,Organic Vegetable Broth,69,15,396,10.57
+28745,12113,9047,74.69,Oven Roasted Turkey,96,20,397,7.94
+3896,12088,9710,80.33,Organic Honey Sweet Whole Wheat Bread,112,3,398,7.09
+25138,12070,8867,73.46,Organic Plain Greek Whole Milk Yogurt,120,16,399,7.37
+35628,12053,9345,77.53,Organic Strawberry Smoothie,120,16,400,7.17
+21292,11987,8226,68.62,Rainbow Bell Peppers,32,4,401,4.67
+26384,11983,7504,62.62,Large Brown Eggs,86,16,402,6.2
+35503,11979,9169,76.54,Organic Vanilla Almond Milk,91,16,403,6.43
+28476,11963,8501,71.06,Organic Small Curd Cottage Cheese,108,16,404,7.98
+38768,11953,8521,71.29,Sweet Kale Salad Mix,32,4,405,3.62
+21573,11921,7273,61.01,Roasted Pine Nut Hummus,67,20,406,6.27
+46820,11913,8251,69.26,Vanilla Pure Almond Milk,91,16,407,6.63
+21386,11874,8747,73.67,Smartwater,115,7,408,4.07
+47042,11839,6114,51.64,Organic Red On the Vine Tomato,83,4,409,8.87
+11140,11816,8588,72.68,Organic Romaine Leaf,123,4,410,8.28
+14197,11782,3900,33.1,Tomato Paste,9,9,411,10.13
+39947,11755,7976,67.85,Blackberry Cucumber Sparkling Water,115,7,412,7.64
+32433,11750,5594,47.61,Green Peas,116,1,413,9.87
+1999,11747,5527,47.05,Organic Chicken Broth,69,15,414,9.77
+47759,11727,6778,57.8,Mandarin Oranges,24,4,415,9.17
+17949,11711,8920,76.17,Mild Cheddar Cheese Sticks,21,16,416,8.92
+25824,11702,5517,47.15,Pita Chips Simply Naked,107,19,417,10.16
+37220,11698,6105,52.19,Organic Strawberry Fruit Spread,88,13,418,10.44
+21333,11695,6677,57.09,Original Whipped Cream Cheese,108,16,419,8.87
+46616,11672,7892,67.61,Organic Dark Chocolate Peanut Butter Cups,45,19,420,8.06
+24954,11618,8287,71.33,Total 0% with Honey Nonfat Greek Strained Yogurt,120,16,421,7.74
+41065,11610,6576,56.64,Organic Yellow Squash,83,4,422,10.23
+5456,11595,6827,58.88,Green Tea With Ginseng and Honey,96,20,423,9.23
+38273,11577,6079,52.51,Marinara Pasta Sauce,9,9,424,10.07
+48628,11565,8109,70.12,Organic Whole Wheat Bread,112,3,425,7.86
+43504,11561,7695,66.56,Organic Chicken Strips,34,1,426,9.56
+15613,11548,7132,61.76,Salted Tub of Butter,36,16,427,8.79
+1194,11538,8449,73.23,Natural Artisan Water,115,7,428,5.59
+15424,11522,8761,76.04,Purified Water,115,7,429,5.05
+44628,11503,2894,25.16,Organic Dijon Mustard,72,13,430,10.58
+39190,11488,6626,57.68,Vanilla Unsweetened Almond Milk,91,16,431,7.51
+27548,11486,7326,63.78,Original Semisoft Cheese,21,16,432,9.56
+27730,11409,8227,72.11,Almond Breeze Original Almond Milk,91,16,433,6.11
+35535,11365,6551,57.64,Organic Red Chard Greens,83,4,434,9.2
+24841,11355,7963,70.13,Aged White Cheddar Baked Rice & Corn Puffs Gluten Free Lunch Packs,107,19,435,10.49
+29307,11352,6856,60.39,Baby Arugula,123,4,436,8.48
+42110,11316,6422,56.75,Organic Macaroni Shells & Real Aged Cheddar,4,9,437,10.23
+14161,11284,5966,52.87,Kiwi,24,4,438,8.53
+16696,11265,7417,65.84,Coke Classic,77,7,439,6.25
+14462,11225,6505,57.95,Sliced Black Olives,110,13,440,10.35
+49175,11214,5467,48.75,Organic Pinto Beans,59,15,441,10.93
+31066,11181,2446,21.88,Aluminum Foil,85,17,442,9.5
+26800,11158,6220,55.74,Organic Baby Kale Mix,123,4,443,9.16
+9825,11125,7717,69.37,Organic Multigrain Waffles,52,1,444,8.82
+27796,11118,4523,40.68,Real Mayonnaise,72,13,445,8.94
+11068,11114,6730,60.55,Medium Cheddar Cheese Block,21,16,446,9.15
+5322,11062,7176,64.87,Gluten Free Dark Chocolate Chunk Chewy with a Crunch Granola Bars,3,19,447,9.09
+7969,11048,5243,47.46,Lime,24,4,448,9.21
+27325,11044,8443,76.45,Alpine Spring Water,115,7,449,5.07
+41588,11043,6827,61.82,Firm Tofu,14,20,450,8.31
+32177,11031,5255,47.64,Blood Oranges,24,4,451,9.54
+5769,11029,5148,46.68,Organic Chicken Stock,69,15,452,7.83
+27323,11026,4896,44.4,Pure & Natural Sour Cream,108,16,453,9.29
+8309,11025,7736,70.17,Nonfat Icelandic Style Strawberry Yogurt,120,16,454,8.17
+11005,11018,5526,50.15,Organic Cream Cheese Bar,108,16,455,9.43
+13517,11010,7661,69.58,Whole Wheat Bread,112,3,456,7.87
+1244,11005,6174,56.1,Organic Orange Bell Pepper,83,4,457,10.58
+27744,11002,7243,65.83,Organic Whipping Cream,53,16,458,7.32
+9020,10976,6442,58.69,Boneless Skinless Chicken Thighs,35,12,459,7.84
+22474,10954,5805,52.99,Cheddar Bunnies Snack Crackers,78,19,460,10.83
+13733,10940,4870,44.52,Red Potatoes,83,4,461,9.44
+2228,10938,6006,54.91,Organic Frozen Mango Chunks,116,1,462,9.97
+16521,10920,5449,49.9,Walnut Halves & Pieces,117,19,463,9.96
+2452,10915,6936,63.55,Naturals Chicken Nuggets,129,1,464,10.06
+26497,10896,5272,48.38,Romaine Lettuce,83,4,465,9.3
+3298,10890,7746,71.13,Mozzarella String Cheese,21,16,466,5.53
+49191,10868,6887,63.37,Cran Raspberry Sparkling Water,115,7,467,7.39
+20345,10859,6951,64.01,Thin Crust Pepperoni Pizza,79,1,468,8.27
+4086,10857,4703,43.32,Mint,16,4,469,9.33
+21872,10838,6516,60.12,Organic Italian Salad,123,4,470,8.29
+19173,10834,6852,63.25,Orange Calcium & Vitamin D Pulp Free,98,7,471,7.6
+28601,10811,6250,57.81,Collard Greens,83,4,472,8.74
+17316,10797,8111,75.12,Vitamin D Organic Whole Milk,84,16,473,5.81
+18479,10787,4957,45.95,Organic Low Sodium Vegetable Broth,69,15,474,10.58
+15261,10781,4019,37.28,Organic Rosemary,16,4,475,9.96
+2314,10781,4174,38.72,Whole Milk Ricotta Cheese,108,16,475,9.89
+20734,10780,6108,56.66,Organic Medjool Dates,117,19,477,9.4
+41658,10759,6986,64.93,Authentic French Brioche Hamburger Buns,43,3,478,8.58
+47630,10755,6229,57.92,Medium Navel Orange,24,4,479,8.57
+12980,10750,6184,57.53,Large Greenhouse Tomato,83,4,480,8.12
+22849,10728,4977,46.39,Bunny-Luv Fresh Organic Carrots,123,4,481,9.1
+20738,10717,7219,67.36,Plain Bagels,93,3,482,8.09
+36724,10690,6816,63.76,Organic Sea Salt Roasted Seaweed Snacks,66,6,483,9.66
+5373,10661,5251,49.25,Organic No Salt Added Diced Tomatoes,81,15,484,10.33
+44799,10657,8454,79.33,Fresh CA Grown Eggs,86,16,485,6.15
+21927,10641,7018,65.95,Organic Boneless Skinless Chicken Breast,35,12,486,8.1
+22959,10618,7893,74.34,Reduced Fat Milk 100% Lactose Free,91,16,487,5.42
+5161,10596,7903,74.58,Dried Mango,18,10,488,6.82
+37524,10551,5456,51.71,Fresh Mozzarella Ball,2,16,489,9.55
+20574,10521,7870,74.8,Roasted Turkey,96,20,490,7.5
+35914,10509,8296,78.94,Dha Omega 3 Reduced Fat 2% Milk,84,16,491,5.34
+12845,10471,3802,36.31,Chopped Walnuts,117,19,492,10.44
+17758,10468,6156,58.81,Strawberry Rhubarb Yoghurt,120,16,493,8.38
+26348,10444,7219,69.12,Mixed Fruit Fruit Snacks,50,19,494,6.41
+25513,10435,6581,63.07,Boomchickapop Sea Salt Popcorn,23,19,495,8.85
+4656,10427,5115,49.06,Raspberry Preserves,88,13,496,10.51
+6948,10380,8407,80.99,Organic Original Almond Milk,91,16,497,5.9
+11712,10375,7768,74.87,Cage Free Large White Eggs,86,16,498,6.12
+34584,10300,5574,54.12,Organic Sliced Peaches,116,1,499,10.44
+40198,10294,6371,61.89,Blueberry Yoghurt,120,16,500,8.56
+35887,10275,5638,54.87,Organic Mixed Vegetables,116,1,501,9.8
+33055,10266,6826,66.49,Organic Golden Delicious Apple,24,4,502,8.45
+21543,10250,5951,58.06,Organic Quick Oats,130,14,503,9.15
+49131,10190,5632,55.27,Smoked Turkey Breast Slices,96,20,504,8.98
+18926,10162,7318,72.01,Fat Free Strawberry Yogurt,120,16,505,7.75
+48697,10151,3645,35.91,Canola Oil,19,13,506,8.76
+18963,10143,3255,32.09,Apple Cider Vinegar,19,13,507,8.76
+39108,10121,6638,65.59,Pulp Free Orange Juice,31,7,508,6.38
+31720,10102,8494,84.08,Organic  Whole Milk,84,16,509,4.31
+15649,10097,7107,70.39,Baby Seedless Cucumbers,83,4,510,8.59
+31651,10030,8209,81.84,Extra Fancy Unsalted Mixed Nuts,117,19,511,3.28
+45104,9977,5764,57.77,ALMONDBREEZE UNSWEETENED,91,16,512,7.72
+6740,9962,5582,56.03,Organic Braeburn Apple,24,4,513,9.32
+36316,9956,6932,69.63,Lemon Sparkling Water,115,7,514,6.53
+5612,9946,6746,67.83,Reduced Fat Milk,84,16,515,6.76
+23543,9910,6770,68.31,Organic Extra Large Brown Eggs,86,16,516,6.96
+30406,9879,4060,41.1,Butternut Squash,83,4,517,8.9
+40377,9835,3849,39.14,Unrefined Virgin Coconut Oil,19,13,518,9.07
+44008,9812,7520,76.64,Organic Greek Whole Milk Blended Vanilla Bean Yogurt,120,16,519,6.94
+11512,9803,6508,66.39,Honey Yoghurt,120,16,520,7.95
+18656,9792,4767,48.68,Organic Red Potato,83,4,521,9.88
+7500,9777,2348,24.02,Organic Vanilla Extract,17,13,522,9.72
+44661,9764,5130,52.54,Bicolor Sweet Corn,83,4,523,9.5
+9755,9740,5850,60.06,Original Popcorn,23,19,524,7.77
+32303,9736,5077,52.15,Red Seedless Grapes,24,4,525,7.19
+30639,9728,7480,76.89,Organic Orange Juice,98,7,526,6.64
+36082,9695,4982,51.39,Organic Mango,24,4,527,10.14
+40063,9659,5629,58.28,Gluten Free Chocolate Chip Cookies,61,19,528,9.54
+10305,9649,5058,52.42,Black Plum,24,4,529,9.86
+12576,9613,6192,64.41,Kiwi Sandia Sparkling Water,115,7,530,8.12
+24221,9584,5735,59.84,Organic Red Grapes,24,4,531,9.37
+23516,9583,3343,34.88,Organic Unbleached All-Purpose Flour,17,13,532,9.23
+12872,9517,5119,53.79,Penne Rigate,131,9,533,10.33
+12409,9495,3208,33.79,Organic Distilled White Vinegar,19,13,534,9.37
+32403,9462,7717,81.56,Fat Free Skim Milk,84,16,535,4.25
+13838,9452,4507,47.68,Natural Free & Clear Dish Liquid,74,17,536,9.16
+46069,9413,5527,58.72,Supergreens!,123,4,537,7.84
+45504,9410,8091,85.98,Whole Organic Omega 3 Milk,84,16,538,5.27
+2450,9397,5072,53.97,Taco Seasoning,30,6,539,10.81
+28427,9391,6679,71.12,Vitamin D Whole Milk,84,16,540,5.37
+30353,9389,6275,66.83,Curate Cherry Lime Sparkling Water,115,7,541,7.26
+31215,9386,6104,65.03,Lemon Yogurt,120,16,542,8.17
+11759,9373,6343,67.67,Organic Simply Naked Pita Chips,107,19,543,4.52
+43129,9372,2525,26.94,Panko Bread Crumbs,5,13,544,9.98
+30696,9350,5650,60.43,Eggo Homestyle Waffles,52,1,545,8.69
+39581,9349,6605,70.65,French Vanilla Creamer,53,16,546,6.5
+48559,9276,6708,72.32,Synergy Organic Kombucha Gingerberry,31,7,547,7.42
+14715,9262,5984,64.61,Coconut Water,98,7,548,5.16
+6631,9253,6294,68.02,No Pulp Calcium & Vitamin D Pure Orange Juice,31,7,549,6.84
+35163,9247,5619,60.77,Red Leaf Lettuce,83,4,550,8.34
+25718,9243,6488,70.19,Cold Brew Coffee,26,7,551,6.89
+26317,9239,6014,65.09,Organic Lemonade,98,7,552,7.48
+47912,9233,7032,76.16,Vanilla Skyr Style Yogurt,120,16,553,7.19
+7628,9232,3828,41.46,"Dressing, Jersey Sweet Onion, Calorie Free",83,4,554,8.81
+41149,9189,4417,48.07,Organic Riced Cauliflower,100,21,555,8.66
+28553,9187,5221,56.83,Whole Strawberries,116,1,556,8.36
+34668,9183,6589,71.75,Organic Large Grade AA Omega-3 Eggs,86,16,557,6.47
+46842,9183,6167,67.16,Plain Pre-Sliced Bagels,93,3,557,7.37
+2091,9137,5749,62.92,Almond Nut & Rice Cracker Snacks,78,19,559,8.86
+15392,9137,3589,39.28,Organic Mayonnaise,72,13,559,10.22
+1529,9118,4024,44.13,"Parsley, Italian (Flat), New England Grown",16,4,561,8.82
+27690,9108,6659,73.11,Apple Cinnamon GoGo Squeez,50,19,562,9.5
+14218,9108,6578,72.22,Grade A Large Eggs Cage Free Omega 3,86,16,562,6.27
+29941,9105,4808,52.81,Red Plums,24,4,564,9.74
+43875,9103,5887,64.67,Baby Food Stage 2 Blueberry Pear & Purple Carrot,92,18,565,10.23
+32747,9091,6846,75.31,Low Fat 1% Milk,84,16,566,5.93
+13263,9082,6066,66.79,Non Fat Acai & Mixed Berries Yogurt,120,16,567,8.1
+41400,9082,6257,68.89,Crunchy Oats 'n Honey Granola Bars,3,19,567,4.44
+39558,9048,4924,54.42,Gold Potato,83,4,569,9.36
+36929,9038,6271,69.38,"Milk, Vitamin D",84,16,570,6.62
+25753,8977,5751,64.06,Organic Homestyle Waffles,52,1,571,9.51
+25640,8973,4706,52.45,White Peach,24,4,572,9.47
+38996,8959,4178,46.63,Grape Tomatoes,83,4,573,9.13
+24009,8957,3596,40.15,Organic Long Grain White Rice,63,9,574,10.26
+31981,8933,7081,79.27,1% Low Fat Milk,84,16,575,5.45
+5550,8926,6204,69.5,YoBaby Peach Pear Yogurt,120,16,576,8.08
+23236,8923,4014,44.98,Chopped Spinach,116,1,577,9.01
+45948,8911,6564,73.66,Gluten Free 7 Grain Bread,112,3,578,7.24
+46149,8905,7238,81.28,Zero Calorie Cola,77,7,579,3.18
+11576,8891,6787,76.34,Corn Chips,107,19,580,8.08
+17652,8878,6483,73.02,Air Chilled Breaded Chicken Breast Nuggets,129,1,581,8.9
+14852,8864,5270,59.45,All Natural Marinara Sauce,9,9,582,9.7
+5652,8858,3678,41.52,Organic Red Potatoes,83,4,583,9.87
+49533,8855,3171,35.81,Cane Sugar,17,13,584,9.47
+31766,8851,5897,66.63,Cheese Pizza Snacks,129,1,585,8.98
+4461,8815,2288,25.96,Organic Raw Unfiltered Apple Cider Vinegar,19,13,586,9.24
+14129,8807,4629,52.56,Organic Chicken Bone Broth,69,15,587,9.02
+20940,8806,7376,83.76,Organic Low Fat Milk,84,16,588,2.88
+12099,8792,6292,71.57,Honey Greek Yogurt,120,16,589,7.08
+34217,8785,5679,64.64,Pesto Tortellini  Bowls,38,1,590,8.39
+11440,8773,6247,71.21,Chicken Breast Tenders Breaded,129,1,591,9.09
+32465,8760,5242,59.84,Sliced White Mushrooms,123,4,592,8.56
+43394,8742,7511,85.92,Organic Lactose Free Whole Milk,91,16,593,4.85
+46886,8740,5362,61.35,Raspberry Yoghurt,120,16,594,8.61
+29926,8727,5222,59.84,Roasted & Salted Almonds,117,19,595,9.9
+48395,8726,4619,52.93,Original Rice Pilaf Mix,63,9,596,10.21
+22142,8725,3646,41.79,100% Pure Pumpkin,17,13,597,8.69
+47788,8721,5038,57.77,Honeydew Melon,24,4,598,8.78
+24810,8720,4877,55.93,Organic Lightly Salted Brown Rice Cakes,78,19,599,9.81
+14633,8711,5660,64.98,Veggie Chips,107,19,600,9.33
+38772,8705,4907,56.37,Provolone,21,16,601,10.03
+10385,8676,4391,50.61,Organic English Cucumber,83,4,602,9.81
+34466,8672,4776,55.07,Sweet Potatoes,116,1,603,8.41
+14651,8671,5159,59.5,Tommy/Kent/Keitt/Haden Mango,24,4,604,9.83
+28928,8661,5727,66.12,Uncured Black Forest Ham,96,20,605,8.72
+32429,8649,4925,56.94,Red Mango,24,4,606,9.32
+35004,8648,4558,52.71,Macaroni Shells & White Cheddar Cheese,4,9,607,9.92
+17284,8642,4777,55.28,Organic Sugar Snap Peas,83,4,608,10.87
+6489,8640,5208,60.28,Backyard Barbeque Potato Chips,107,19,609,9.95
+42557,8637,4942,57.22,Crunchy Almond Butter,88,13,610,8.71
+7156,8621,5581,64.74,Traditional Plain Greek Yogurt,120,16,611,7.38
+10912,8597,5968,69.42,Lowfat Vanilla Yogurt,120,16,612,8.52
+10831,8585,6880,80.14,Yobaby Organic Plain Yogurt,120,16,613,7.05
+781,8583,5800,67.58,Organic Shredded Mild Cheddar,21,16,614,9.45
+18594,8578,4651,54.22,Emmentaler Swiss Slices,21,16,615,10.25
+7485,8558,4963,57.99,Garlic Hummus,67,20,616,9.11
+29675,8555,4815,56.28,Organic Bagged Carrots,83,4,617,9.48
+12276,8555,4061,47.47,Chocolate Chip Cookie Dough Ice Cream,37,1,617,8.55
+2120,8541,5847,68.46,Sauvignon Blanc,62,5,619,5.58
+8138,8539,5191,60.79,Traditional Hummus,67,20,620,9.38
+16616,8512,5171,60.75,Organic Sliced White Mushrooms,123,4,621,9.24
+2326,8511,5692,66.88,Organic Blueberry Waffles,52,1,622,8.9
+4367,8511,4445,52.23,Garlic & Fine Herbs Gournay Cheese,21,16,622,9.32
+5068,8508,4832,56.79,Cauliflower Florets,32,4,624,7.36
+9515,8497,5404,63.6,Natural Classic Pork Breakfast Sausage,52,1,625,9.33
+29127,8495,4423,52.07,Dairy Free Unsweetened Coconut Milk,91,16,626,8.35
+311,8493,4741,55.82,Naturals Savory Turkey Breakfast Sausage,52,1,627,8.79
+40268,8489,5112,60.22,Organic Wheat-Free & Gluten-Free Original Crackers,78,19,628,9.2
+33043,8479,4446,52.44,Crescent Rolls,105,13,629,10.37
+31433,8457,4500,53.21,Organic Cinnamon Crunch Cereal,121,14,630,10.49
+5240,8452,4077,48.24,Spaghetti  No 12,131,9,631,10.67
+3142,8452,3566,42.19,Organic Short Grain Brown Rice,63,9,631,10.31
+38200,8448,5581,66.06,Apple Juice,31,7,633,7.37
+36772,8435,4852,57.52,Bunny Pasta with Yummy Cheese Macaroni & Cheese,4,9,634,10.39
+19006,8423,5362,63.66,Dark Chocolate Pretzels with Sea Salt,107,19,635,9.3
+46522,8399,3807,45.33,Spaghetti Pasta,131,9,636,10.12
+2846,8391,4308,51.34,Organic Green Onions,83,4,637,8.18
+44234,8382,2798,33.38,Squeeze Tomato Ketchup,72,13,638,9.89
+37065,8354,3755,44.95,Serrano Chile Peppers,83,4,639,9.02
+23405,8339,1894,22.71,Pure Baking Soda,17,13,640,9.11
+48104,8307,3954,47.6,Organic Lite Coconut Milk,91,16,641,9.65
+37119,8306,4704,56.63,Uncured Pepperoni,96,20,642,9.4
+13292,8306,5715,68.81,"Juice Beverage, Cold Pressed, Kale Apple Ginger Romaine Spinach Cucumber Celery Parsley Lemon",31,7,642,7.0
+4793,8305,6592,79.37,Wild Berry Smoothie,120,16,644,7.11
+34134,8303,5342,64.34,Spinach Peas & Pear Stage 2 Baby Food,92,18,645,10.19
+47792,8291,5262,63.47,Organic Beans & Rice Cheddar Cheese Burrito,38,1,646,9.45
+17224,8290,5150,62.12,Oats & Honey Gluten Free Granola,3,19,647,9.7
+44479,8287,5211,62.88,Organic Stringles Mozzarella String Cheese,21,16,648,8.97
+12745,8279,5854,70.71,"Yogurt, Lowfat, Strawberry",120,16,649,8.57
+3583,8275,5358,64.75,Unsweetened Coconut Milk Beverage,84,16,650,7.06
+16254,8252,5670,68.71,ZBar Organic Chocolate Brownie Energy Snack,3,19,651,9.64
+4942,8221,5907,71.85,Vanilla Almond Breeze,91,16,652,6.22
+34530,8204,4465,54.42,Organic Chicken Thighs,7,12,653,8.18
+22025,8180,5627,68.79,YoBaby Blueberry Apple Yogurt,120,16,654,7.95
+9808,8177,5361,65.56,Organic Cottage Cheese,108,16,655,8.55
+16145,8170,3631,44.44,Organic Cannellini Beans,59,15,656,10.67
+19816,8164,5491,67.26,Sonoma Traditional Flour Tortillas 10 Count,128,3,657,9.23
+1700,8158,4687,57.45,White Cheddar Popcorn,23,19,658,8.6
+8555,8153,4713,57.81,Sweet Potato Tortilla Chips,107,19,659,9.82
+38650,8132,3420,42.06,Organic Red Lentils,63,9,660,10.61
+14901,8129,4529,55.71,Raisins,117,19,661,10.27
+365,8125,4746,58.41,Cheerios Cereal,121,14,662,9.88
+30305,8120,3753,46.22,Fancy Eggplant,83,4,663,9.22
+1408,8119,4968,61.19,Mini Cucumbers,123,4,664,8.62
+39040,8114,4948,60.98,Organic Sliced Crimini Mushrooms,123,4,665,9.0
+42460,8105,5422,66.9,Plain Mini Bagels,93,3,666,8.77
+33548,8092,5602,69.23,Peach on the Bottom Nonfat Greek Yogurt,120,16,667,8.1
+45646,8074,3386,41.94,Grated Parmesan Cheese,21,16,668,10.12
+14870,8044,5825,72.41,Icelandic Style Fat Free Plain Yogurt,120,16,669,7.17
+32566,8040,6409,79.71,Dha Omega 3 Vitamin D Milk,84,16,670,5.12
+7644,8023,3987,49.69,Scoops! Tortilla Chips,107,19,671,8.7
+16262,8021,5458,68.05,Everything Bagels,93,3,672,8.57
+20580,8018,4687,58.46,Original Real Vegetable Chips,107,19,673,9.81
+17429,8005,5708,71.31,Jalapeno Hummus,67,20,674,7.91
+31964,8001,5650,70.62,Passionfruit Sparkling Water,115,7,675,6.34
+40910,7982,4609,57.74,Root Beer,77,7,676,8.33
+16617,7975,5332,66.86,Organic Muenster Cheese Slices,21,16,677,9.5
+27243,7969,2766,34.71,Premium Pure Cane Granulated Sugar,17,13,678,8.8
+10504,7969,3855,48.37,Yukon Gold Potatoes 5lb Bag,83,4,678,8.96
+42495,7954,4886,61.43,Pink Lady (Cripps) Apple,24,4,680,7.67
+14168,7942,3709,46.7,Penne Pasta,131,9,681,10.17
+31869,7924,3782,47.73,Organic Edamame,116,1,682,10.83
+44156,7921,5421,68.44,Strawberry on the Bottom Nonfat Greek Yogurt,120,16,683,8.02
+23579,7917,4920,62.14,Peanut Butter Chocolate Chip Fruit & Nut Food Bar,3,19,684,9.49
+12614,7903,5712,72.28,Yellow Grape Tomatoes,83,4,685,8.75
+23622,7894,3424,43.37,Organic Hot House Tomato,83,4,686,9.58
+3990,7894,4511,57.14,Natural Sharp Cheddar Sliced Cheese,21,16,686,8.75
+10603,7885,5124,64.98,93% Ground Beef,122,12,688,8.22
+13083,7883,5123,64.99,Lowfat Small Curd Cottage Cheese,108,16,689,8.52
+38890,7870,4566,58.02,No Pulp Calcium & Vitamin D Pure Premium 100% Pure Orange Juice,98,7,690,7.66
+45763,7853,5808,73.96,Mini Seedless Cucumbers,83,4,691,7.46
+48857,7843,5898,75.2,Authentic French Brioche,93,3,692,6.89
+12384,7838,6390,81.53,Organic Lactose Free 1% Lowfat Milk,91,16,693,5.39
+24759,7838,4690,59.84,Club Soda,77,7,693,6.86
+2962,7835,6249,79.76,"Milk, Reduced Fat, 2% Milkfat",84,16,695,4.82
+1090,7832,3888,49.64,Shells & Real Aged Cheddar Macaroni & Cheese,4,9,696,10.3
+5460,7828,4331,55.33,Butter,36,16,697,8.42
+29370,7825,5156,65.89,Organic White Cheddar Popcorn,23,19,698,8.75
+8955,7822,3290,42.06,Basil,16,4,699,10.02
+28278,7818,4129,52.81,Organic Penne Rigate,131,9,700,10.68
+46226,7816,4858,62.15,Thick & Crispy Tortilla Chips,107,19,701,9.07
+26128,7799,4554,58.39,Organic Mango Chunks,116,1,702,8.65
+9337,7791,3574,45.87,Purity Farms Ghee Clarified Butter,36,16,703,8.33
+7131,7788,5094,65.41,Light Semisoft Cheese,21,16,704,7.14
+8479,7775,3826,49.21,Original Black Box Tablewater Cracker,78,19,705,9.5
+17616,7775,4633,59.59,Goldfish Cheddar Baked Snack Crackers,78,19,705,9.58
+31759,7773,5102,65.64,Cherrios Honey Nut,121,14,707,4.97
+39922,7760,3989,51.4,Celery Sticks,123,4,708,8.2
+21009,7748,5309,68.52,"Crispy Wheat, Crackers",78,19,709,9.59
+33716,7728,4514,58.41,Apple Pie Fruit & Nut Food Bar,3,19,710,9.93
+4724,7696,5105,66.33,Broccoli Florettes,32,4,711,4.09
+10621,7672,4534,59.1,Organic Purple Kale,83,4,712,8.67
+28373,7667,5360,69.91,Original Rotisserie Chicken,13,20,713,7.2
+20754,7656,3894,50.86,Mediterranean Mint Gelato,37,1,714,9.1
+17341,7648,5218,68.23,Presliced Everything Bagels,93,3,715,7.33
+18880,7641,3209,42.0,Organic Free Range Low Sodium Chicken Broth,69,15,716,10.24
+32455,7628,5014,65.73,Whole Grain Cheddar Baked Snack Crackers,78,19,717,5.28
+22504,7625,2996,39.29,Organic Mountain Forest Amber Honey,29,13,718,9.99
+46692,7620,4532,59.48,Multigrain Tortilla Chips,107,19,719,9.6
+3481,7614,4232,55.58,Pineapple,24,4,720,9.11
+17835,7603,4656,61.24,Thin & Light Tortilla Chips,107,19,721,9.38
+16823,7601,2412,31.73,Organic Beef Broth,69,15,722,10.09
+24535,7591,5226,68.84,Plain Whole Milk Yogurt,120,16,723,6.96
+6532,7588,5689,74.97,Organic YoKids Very Berry Smoothies,120,16,724,8.02
+36389,7577,4070,53.72,Organic Rainbow Chard Vegetable,83,4,725,9.54
+23765,7562,4724,62.47,Organic Smoked Turkey Breast,96,20,726,8.97
+49610,7556,5698,75.41,100% Lactose Free Fat Free Milk,91,16,727,5.53
+25005,7554,3070,40.64,Organic Green Lentils,63,9,728,10.97
+17008,7550,3936,52.13,Shredded Sharp Cheddar Cheese,21,16,729,9.56
+8230,7546,4468,59.21,100% Recycled Bathroom Tissue,54,17,730,8.18
+9124,7543,4954,65.68,Broccoli & Cheddar Bake Meal Bowl,38,1,731,8.11
+36086,7535,3059,40.6,Philadelphia Original Cream Cheese,108,16,732,8.53
+30949,7535,5634,74.77,Organic YoKids Smoothie Strawberry Banana Lowfat Yogurt,120,16,732,8.26
+29553,7534,3816,50.65,Super Soft Taco Flour Tortillas,128,3,734,9.78
+30442,7531,5041,66.94,Low Fat Vanilla Yogurt,120,16,735,7.98
+21417,7514,3829,50.96,Organic Creamy Tomato Soup,69,15,736,10.43
+26131,7507,5499,73.25,Mixed Berries Whole Milk Icelandic Style Skyr Yogurt,120,16,737,7.84
+28535,7498,4361,58.16,Cucumber & Garlic  Tzatziki,51,13,738,9.86
+16589,7474,5253,70.28,Plantain Chips,107,19,739,7.89
+45063,7457,3976,53.32,Organic Baby Bella Mushrooms,123,4,740,9.64
+23233,7445,5168,69.42,California Sourdough Bread,112,3,741,8.07
+38944,7423,4967,66.91,Seven Grain Crispy Tenders,42,1,742,8.44
+1215,7420,4449,59.96,Kidz All Natural Baked Chicken Nuggets,129,1,743,10.13
+28123,7417,3780,50.96,Organic Cut Green Beans,116,1,744,9.65
+19156,7413,5283,71.27,Fat Free Blueberry Yogurt,120,16,745,8.13
+33572,7402,5973,80.69,Lactose Free 2% Reduced Fat Milk,91,16,746,5.34
+45747,7369,4424,60.04,Curate Melon Pomelo Sparking Water,115,7,747,8.66
+31562,7368,3690,50.08,Sweet Onions,83,4,748,8.98
+33352,7343,4724,64.33,Organic Kale Greens,123,4,749,8.24
+2611,7342,4773,65.01,Gluten Free SpongeBob Spinach Littles,92,18,750,9.57
+8087,7332,5176,70.59,Florida Orange Juice With Calcium & Vitamin D,31,7,751,7.39
+9741,7315,4114,56.24,Cheese Pizza,79,1,752,9.56
+11352,7314,5055,69.11,Organic Mini Sandwich Crackers Peanut Butter,78,19,753,10.7
+4138,7311,3986,54.52,Arancita Rossa,77,7,754,8.17
+40593,7305,3165,43.33,Cream Cheese,108,16,755,8.92
+41544,7303,2926,40.07,Organic Crushed Fire Roasted Tomatoes,81,15,756,10.07
+12606,7292,5315,72.89,100% Natural Spring Water,115,7,757,5.34
+24082,7278,4654,63.95,Organic Dark Sweet Cherries,116,1,758,9.14
+6287,7270,5324,73.23,Organic & Raw Strawberry Serenity Kombucha,31,7,759,7.73
+48171,7261,3727,51.33,Shredded Hash Browns,129,1,760,8.99
+38028,7260,3935,54.2,White Sliced Mushrooms,123,4,761,8.78
+31805,7240,4399,60.76,Gourmet Tomato Medley,32,4,762,6.32
+21614,7239,5164,71.34,Crackers Harvest Whole Wheat,78,19,763,9.3
+13819,7227,4372,60.5,Roasted Salted Cashews,117,19,764,9.65
+13431,7220,3708,51.36,Flaky Biscuits,105,13,765,10.55
+19894,7220,5563,77.05,Enlightened Organic Raw Kombucha,31,7,765,6.84
+37825,7205,3792,52.63,Organic Whole Wheat Fusilli,131,9,767,10.59
+35383,7204,4783,66.39,Classic White Bread,112,3,768,7.21
+18382,7196,2973,41.31,Saltine Crackers,78,19,769,9.51
+7521,7192,5683,79.02,New Orleans Iced Coffee,26,7,770,6.17
+14467,7186,4769,66.37,Sweet Baguette,112,3,771,6.9
+17807,7181,4507,62.76,Gluten Free Blueberry Waffles,52,1,772,8.61
+10814,7181,4380,60.99,Applewood Smoked Bacon,106,12,772,8.38
+10032,7178,4947,68.92,Cola Soft Drink,77,7,774,6.2
+23341,7158,4327,60.45,Large Grade AA Eggs,86,16,775,6.53
+47029,7154,4666,65.22,Organic Greek Nonfat Yogurt With Mixed Berries,120,16,776,8.78
+42803,7126,5104,71.63,Organic Apple Slices,50,19,777,6.65
+46061,7102,5223,73.54,Popcorn,23,19,778,3.62
+47601,7086,3846,54.28,Unsalted Cultured Butter,36,16,779,8.71
+18987,7085,3691,52.1,Hot Dog Buns,43,3,780,10.01
+48595,7084,3872,54.66,Organic Wheat Square Crackers,78,19,781,10.37
+24382,7081,2034,28.72,Ranch Dressing,89,13,782,10.95
+15200,7076,3764,53.19,Organic Green Beans,83,4,783,7.73
+22888,7076,4182,59.1,90% Lean Ground Beef,122,12,783,8.37
+43631,7068,5180,73.29,Diet Coke,77,7,785,5.27
+1559,7064,5196,73.56,Cherry Pomegranate Greek Yogurt,120,16,786,8.38
+19003,7062,3041,43.06,Celery,83,4,787,9.68
+45570,7062,4846,68.62,Organic Greek Plain Nonfat Yogurt,120,16,787,6.89
+3020,7054,4492,63.68,Broccoli & Apple Stage 2 Baby Food,92,18,789,10.39
+9366,7050,3472,49.25,Penne Rigate #41 Pasta,131,9,790,10.77
+581,7043,3718,52.79,Garnet Sweet Potato (Yam),83,4,791,9.0
+17902,7041,4914,69.79,Liquid Egg Whites,86,16,792,5.44
+17878,7037,4429,62.94,Grilled Chicken Breast Strips,49,12,793,9.13
+5449,7036,4271,60.7,Margherita Pizza,79,1,794,8.97
+23801,7022,3898,55.51,Fusilli No. 34,131,9,795,10.25
+18434,7003,3856,55.06,Organic Whole Crimini Mushrooms,83,4,796,9.28
+17630,6995,5499,78.61,YoKids Squeeze! Organic Strawberry Flavor Yogurt,120,16,797,7.64
+20632,6982,4512,64.62,Mache Rosettes French Salad Mix,123,4,798,8.31
+41319,6973,2911,41.75,Sea Salt Caramel Gelato,37,1,799,9.3
+19488,6968,3227,46.31,Select-A-Size White Paper Towels,54,17,800,7.16
+29594,6966,4707,67.57,YoKids Strawberry Banana/Strawberry Yogurt,120,16,801,8.6
+38656,6930,4103,59.21,Gluten Free Peanut Butter Dark Chocolate Chewy With a Crunch Granola Bars,3,19,802,9.82
+27360,6919,4357,62.97,Boneless Skinless Chicken Breast Fillets,49,12,803,8.31
+11461,6912,3331,48.19,White Corn Tortillas,128,3,804,9.42
+39121,6909,4582,66.32,Organic Jasmine Rice,38,1,805,8.81
+25837,6897,4753,68.91,Mini Babybel Light Semisoft Edam Cheeses,21,16,806,8.42
+7916,6875,5001,72.74,Grilled Chicken Breast,13,20,807,6.63
+39097,6859,4588,66.89,Gluten Free White Sandwich Bread,112,3,808,7.3
+37011,6851,3878,56.6,Artichokes,83,4,809,9.77
+9421,6837,5009,73.26,Organic Raw Multigreen Kobmbucha,31,7,810,7.26
+8490,6837,4646,67.95,Strawberry Rhubarb Yogurt,120,16,810,8.49
+5337,6832,3807,55.72,Monterey Jack Cheese,21,16,812,8.87
+41259,6823,3048,44.67,Poblano Pepper,83,4,813,9.65
+6615,6820,3761,55.15,Mozzarella Cheese,21,16,814,8.11
+24010,6816,4276,62.73,Wheat Gluten Free Waffles,52,1,815,8.49
+34234,6799,4628,68.07,Grade AA Large White Eggs,86,16,816,5.99
+31371,6795,4607,67.8,Whole Wheat English Muffins,93,3,817,8.11
+46650,6794,4213,62.01,Special Reserve Extra Sharp Cheddar Cheese,21,16,818,8.29
+34551,6794,2621,38.58,Organic Cane Sugar,17,13,818,8.11
+47866,6782,4078,60.13,Jalapeno Potato Chips,107,19,820,9.26
+44514,6779,3397,50.11,Yellow Straightneck Squash,83,4,821,10.04
+34,6779,4088,60.3,Peanut Butter Cereal,121,14,821,9.0
+21497,6773,4565,67.4,White Sandwich Bread,112,3,823,7.51
+42240,6762,3579,52.93,Ultra Soft Facial Tissues,54,17,824,7.57
+4149,6761,4025,59.53,Frozen Organic Blueberries,24,4,825,5.71
+9550,6760,4580,67.75,Ancient Grain Original Granola,57,14,826,9.2
+46041,6758,3394,50.22,Beef Franks,106,12,827,8.11
+46900,6757,2784,41.2,Organic Chicken Noodle Soup,69,15,828,9.53
+7806,6756,4397,65.08,Soft Pretzel Burger Buns,43,3,829,8.45
+47492,6754,3658,54.16,Organic Berry Blend,116,1,830,9.25
+14778,6744,4176,61.92,Organic Chocolate Chip Chewy Granola Bars,3,19,831,10.75
+14999,6735,4992,74.12,Grade A Large Brown Eggs,86,16,832,6.77
+33290,6721,2678,39.85,Lemon Verbena Dish Soap,74,17,833,10.01
+41540,6715,3856,57.42,Organic Whole White Mushrooms,83,4,834,9.49
+46049,6709,3797,56.6,Salt & Pepper Krinkle Chips,107,19,835,9.47
+5618,6705,2599,38.76,Cauliflower,83,4,836,9.28
+19478,6702,3332,49.72,Organic Marinara Pasta Sauce,9,9,837,11.0
+11136,6699,2967,44.29,Organic Low Sodium Chicken Cooking Stock,69,15,838,9.57
+31338,6699,2957,44.14,Classic Almond Butter,88,13,838,9.51
+12427,6697,4957,74.02,Original Beef Jerky,23,19,840,4.76
+6347,6697,5443,81.28,Unsweetened Almond Milk,91,16,840,5.28
+41276,6695,4996,74.62,Energy Drink,64,7,842,4.8
+27307,6674,4637,69.48,Cage Free Grade A Large Brown Eggs,86,16,843,6.59
+14897,6669,3326,49.87,Sweet Potato Yam,83,4,844,8.83
+38274,6642,4080,61.43,Ice Cream Sandwiches Vanilla,37,1,845,9.79
+22260,6639,4244,63.93,Organic Rolled Oats,68,10,846,8.4
+2180,6633,2705,40.78,Angel Hair Pasta,131,9,847,10.67
+8467,6630,4522,68.21,Cinnamon Raisin Bread,112,3,848,8.34
+28785,6620,1786,26.98,Organic Tahini,72,13,849,10.07
+45013,6606,3855,58.36,Apple Sauce,99,15,850,10.08
+33636,6596,3696,56.03,Organic Shells And White Cheddar,4,9,851,10.29
+23296,6594,4629,70.2,Blueberry on the Bottom Nonfat Greek Yogurt,120,16,852,8.4
+248,6590,2645,40.14,Dried Sweetened Cranberries,117,19,853,10.62
+2716,6574,4318,65.68,Organic Greek Lowfat Yogurt With Strawberries,120,16,854,8.6
+29615,6571,4736,72.07,"Bread, Country Buttermilk",112,3,855,6.25
+8239,6571,2799,42.6,Peanut Butter Creamy With Salt,88,13,855,9.62
+10761,6570,4889,74.41,Organic Yokids Lemonade/Blueberry Variety Pack Yogurt Squeezers Tubes,120,16,857,8.81
+9327,6569,1042,15.86,Garlic Powder,104,13,858,9.94
+47357,6568,3356,51.1,Original Restaurant Style Tortilla Chips,107,19,859,8.81
+49247,6562,4291,65.39,Coconut Yoghurt,120,16,860,8.14
+16290,6559,3576,54.52,Sparkling Clementine Juice,77,7,861,8.59
+41593,6558,2673,40.76,Blue Cheese Crumbles,21,16,862,9.92
+3849,6547,4100,62.62,Organic Sprouted English Muffin,93,3,863,8.26
+29898,6544,3411,52.12,Organic Spaghetti Pasta,131,9,864,11.01
+44375,6542,3475,53.12,Canned Aranciata Orange,77,7,865,8.46
+44471,6540,4010,61.31,Free & Clear Unscented Baby Wipes,82,18,866,9.18
+23645,6528,3679,56.36,Sour Cream & Onion Potato Chips,107,19,867,10.08
+38544,6526,5188,79.5,Organic Whole Milk Strawberry Beet Berry Yogurt Pouch,120,16,868,7.44
+47890,6516,3744,57.46,Whole White Mushrooms,123,4,869,9.08
+43643,6511,4933,75.76,Organic Strawana Probugs Kefir,120,16,870,7.93
+13802,6509,3328,51.13,Salted Sweet Cream Butter,36,16,871,8.99
+10473,6504,5193,79.84,Half And Half Cream,53,16,872,4.2
+18599,6494,2710,41.73,Garlic Couscous,4,9,873,10.1
+4006,6485,3047,46.99,Hazelnut Spread With Skim Milk & Cocoa,88,13,874,9.12
+24390,6482,2960,45.66,Pomegranate,24,4,875,9.33
+19049,6480,3984,61.48,Peeled Garlic,123,4,876,8.67
+44292,6458,4547,70.41,Premium Unsweetened Iced Tea,94,7,877,6.77
+36127,6458,4735,73.32,Freshly Squeezed Orange Juice,31,7,877,6.63
+45681,6447,3162,49.05,Americone Dream® Ice Cream,37,1,879,8.28
+20520,6446,2315,35.91,Mild Diced Green Chiles,81,15,880,10.99
+30480,6437,3178,49.37,"Tomatoes, Whole Peeled",81,15,881,9.21
+4137,6433,3473,53.99,Whole Grain Oat Cereal,121,14,882,8.58
+5991,6424,2716,42.28,Bok Choy,83,4,883,9.97
+5031,6416,3836,59.79,Medium Salsa Roja,67,20,884,9.23
+40002,6409,3014,47.03,Strawberry Ice Cream,37,1,885,7.9
+18564,6402,4274,66.76,Diet Ginger Ale All Natural Soda,77,7,886,7.04
+20899,6401,4937,77.13,Goo Berry Pie Probugs Kefir,120,16,887,7.48
+18019,6397,3444,53.84,Macaroni & Cheese Dinner Original Flavor,4,9,888,9.42
+35233,6383,3164,49.57,Peach,24,4,889,9.21
+25133,6382,4725,74.04,Organic String Cheese,21,16,890,7.0
+49111,6361,4031,63.37,Original Instant Oatmeal,130,14,891,8.67
+31663,6361,3478,54.68,Vanilla Blueberry Clusters With Flax Seeds Granola,57,14,891,9.5
+33065,6352,3836,60.39,Cabernet Sauvignon,28,5,893,5.79
+45106,6346,4262,67.16,Low Fat Strawberry Yogurt Tubes,120,16,894,8.98
+38444,6346,4367,68.82,Chardonnay,62,5,894,5.33
+5959,6345,3949,62.24,Four Cheese Thin Crust Pizza,79,1,896,9.16
+40348,6333,3383,53.42,Large Burrito Flour Tortillas,128,3,897,9.13
+26914,6330,4204,66.41,Bean & Cheese Burrito,38,1,898,6.89
+25544,6323,2919,46.16,Fresh Cut Golden Sweet Whole Kernel Corn,81,15,899,10.17
+11941,6305,3673,58.26,"Tortillas, Corn, Organic",128,3,900,10.22
+8736,6301,4528,71.86,Synergy Organic & Raw Cosmic Cranberry,31,7,901,7.33
+13712,6300,4104,65.14,Cold Brew Coffee Double Espresso with Almond Milk,91,16,902,7.13
+23044,6288,4512,71.76,Cream Top Smooth & Creamy Vanilla Yogurt,120,16,903,7.74
+33846,6288,2820,44.85,Roasted Garlic Hummus,67,20,903,9.22
+14332,6280,1481,23.58,Organic Yellow Mustard,72,13,905,10.9
+22802,6280,4557,72.56,Mineral Water,115,7,905,3.19
+32650,6257,3442,55.01,White Giant Paper Towel Rolls,54,17,907,6.29
+26047,6252,4806,76.87,Tuna Salad,1,20,908,7.53
+48726,6251,3999,63.97,Organic Nonfat Greek Yogurt With Peaches,120,16,909,8.83
+20583,6243,3699,59.25,Sourdough Baguette,112,3,910,7.52
+49478,6237,3454,55.38,Frozen Organic Strawberries,24,4,911,8.14
+4962,6237,5013,80.38,Yotoddler Organic Pear Spinach Mango Yogurt,120,16,911,7.04
+25705,6229,4254,68.29,Butterhead Lettuce,83,4,913,7.99
+13852,6226,3079,49.45,Organic Broccoli Crown,83,4,914,9.6
+46175,6222,2804,45.07,Half Baked® Ice Cream,37,1,915,8.43
+44310,6210,4435,71.42,Soft Pretzel Mini Buns,43,3,916,8.61
+47526,6204,3215,51.82,Goat Cheese Log,21,16,917,9.3
+12312,6199,2073,33.44,Lavender Hand Soap,25,11,918,10.06
+1695,6186,4169,67.39,Major Dickason's Blend Ground Coffee Dark Roast,26,7,919,7.42
+35336,6173,3625,58.72,Naked Green Machine Boosted Juice Smoothie,31,7,920,6.53
+47087,6164,4434,71.93,Total 0% Blueberry Acai Greek Yogurt,120,16,921,8.4
+45064,6161,4273,69.36,Honey Wheat Bread,112,3,922,6.79
+16283,6148,3922,63.79,Fresh Asparagus,83,4,923,4.3
+22151,6138,3775,61.5,Tart Cherry Yoghurt,120,16,924,8.77
+48057,6136,3479,56.7,"Hummus, Hope, Original Recipe",67,20,925,9.93
+26882,6136,2587,42.16,Russet Potatoes,83,4,925,8.65
+7054,6134,4242,69.16,Low Fat Plain Yogurt,120,16,927,7.21
+49605,6134,3279,53.46,Classic Hummus Family Size,67,20,927,8.53
+41273,6104,3768,61.73,Broccoli Florets,123,4,929,9.13
+28597,6102,4008,65.68,Organic Stoneground Wheat Crackers,78,19,930,9.81
+31927,6093,3542,58.13,Four Cheese Pasta Sauce,9,9,931,10.48
+35168,6090,3380,55.5,Ezekiel 4:9 Sprouted Grain Tortillas,128,3,932,9.23
+43867,6080,2322,38.19,100% Grated Parmesan Cheese,21,16,933,9.56
+47877,6072,4344,71.54,Coke Zero,77,7,934,5.65
+46088,6068,4069,67.06,Beer,27,5,935,4.67
+23554,6067,2882,47.5,Organic Vanilla Bean Ice Cream,37,1,936,9.76
+17027,6067,4662,76.84,Avocado Roll,13,20,936,7.39
+10369,6057,3619,59.75,Organic Genoa Salami,96,20,938,9.78
+19068,6056,3532,58.32,Boneless And Skinless Chicken Breast,35,12,939,8.7
+28986,6018,2792,46.39,Mild Italian Chicken Sausage,106,12,940,9.91
+16249,5985,3602,60.18,Lacinato Kale Og,83,4,941,8.54
+3999,5982,3224,53.9,Bosc Pear,24,4,942,8.84
+24850,5976,3310,55.39,Organic Super Fruit Punch Juice Drink,98,7,943,9.83
+9623,5974,4142,69.33,Sparkling Natural Spring Water,115,7,944,5.87
+28851,5957,3700,62.11,Cage Free  100% Liquid Egg Whites,86,16,945,6.5
+41757,5950,3748,62.99,Organic Air Chilled Whole Chicken,35,12,946,8.41
+34024,5948,3915,65.82,Classic Soda,77,7,947,6.65
+10326,5947,3886,65.34,Organic Fuji Apples,24,4,948,4.19
+5250,5943,3496,58.83,Blueberry Muffin Bar,3,19,949,10.14
+46206,5939,3287,55.35,Red Grapefruit,24,4,950,9.47
+27683,5936,3256,54.85,Black Beans No Salt Added,59,15,951,10.71
+4796,5924,3442,58.1,Baby Portabella Mushrooms,83,4,952,8.77
+46990,5922,4249,71.75,Ground Buffalo,7,12,953,8.52
+32740,5914,4420,74.74,Cold-Brew Black Coffee,26,7,954,6.3
+38312,5906,4219,71.44,Almond Milk Strawberry Yogurt,120,16,955,7.98
+45866,5904,4198,71.1,Fig Newmans Fruit Filled Cookies,61,19,956,10.12
+46346,5903,2756,46.69,Sweet Potato Fries with Sea Salt,129,1,957,10.65
+49215,5894,2995,50.81,Kids Sensible Foods Broccoli Littles,92,18,958,10.84
+11123,5892,4262,72.34,Vitamin Water Zero Squeezed Lemonade,64,7,959,6.59
+7952,5883,3163,53.77,Chicken & Apple Breakfast Sausage,106,12,960,9.38
+2361,5871,2923,49.79,Mint Chip,37,1,961,7.12
+20919,5853,3182,54.37,Baby Spinach Salad,123,4,962,7.94
+13966,5843,3238,55.42,Chicken Pot Pie,38,1,963,8.0
+25197,5840,4029,68.99,Iced Oatmeal Cookie Kid Z Bar,3,19,964,10.05
+13702,5833,3924,67.27,Good Seed Organic Thin Sliced Bread,112,3,965,8.04
+37464,5815,3644,62.67,Apple Cinnamon Instant Oatmeal,130,14,966,9.34
+31640,5814,3675,63.21,Original Puffins Cereal,121,14,967,9.83
+18352,5812,3713,63.89,Flax Plus Organic Pumpkin Flax Granola,57,14,968,8.59
+26172,5807,2807,48.34,Light Sour Cream,108,16,969,9.56
+43409,5807,3504,60.34,Frosted Mini-Wheats Original Cereal,121,14,969,9.23
+13113,5803,3627,62.5,Organic Apple Juice Boxes,98,7,971,9.29
+9018,5799,4191,72.27,All Natural Virgin Lemonade,31,7,972,7.42
+1468,5788,3042,52.56,Organic Peeled & Cooked Beets,123,4,973,10.23
+26648,5769,2316,40.15,Ataulfo Mango,24,4,974,9.31
+4945,5748,4229,73.57,Large Pineapple Chunks,123,4,975,7.26
+40939,5745,3555,61.88,Drinking Water,115,7,976,3.19
+20378,5743,2514,43.78,Chicken Broth,69,15,978,8.83
+21162,5743,3744,65.19,Organic Mixed Berry Yogurt & Fruit Snack,92,18,978,10.41
+36956,5743,3117,54.27,Stringless Sugar Snap Peas,123,4,978,9.94
+12545,5742,3912,68.13,French Vanilla Coconut Milk Creamer,91,16,980,7.55
+32578,5742,4069,70.86,Organic Fresh Squeezed Orange Juice,31,7,980,6.99
+26629,5733,3261,56.88,Cherry Pie Fruit & Nut Bar,3,19,982,10.18
+22556,5729,4096,71.5,All Natural Apricot Sparkling Water,115,7,983,7.01
+5491,5727,4026,70.3,Stage 1 Apples Sweet Potatoes Pumpkin & Blueberries Organic Pureed Baby Food,92,18,984,10.22
+43014,5722,3481,60.84,Sliced Baby Bella Mushrooms,123,4,985,8.6
+39216,5720,3851,67.33,Original Multigrain Spoonfuls Cereal,121,14,986,9.9
+25256,5720,2837,49.6,Cultured Low Fat Buttermilk,84,16,986,8.87
+35199,5717,3524,61.64,100% Apple Juice,98,7,988,8.11
+13885,5717,2620,45.83,Caramel Cookie Crunch Gelato,37,1,988,8.9
+40229,5706,2850,49.95,Organic Whole Wheat Penne Rigate,131,9,990,10.44
+12797,5702,2312,40.55,Organic Whole Peeled Tomatoes,81,15,991,10.02
+27020,5697,3682,64.63,Mandarins Bag,24,4,992,8.52
+7746,5696,1015,17.82,Oregano,104,13,993,10.43
+2480,5693,3441,60.44,Organic 85% Cacao Dark Chocolate Bar,45,19,994,8.98
+3339,5691,2747,48.27,Organic Russet Potato Bag,123,4,995,8.76
+18023,5687,4249,74.71,Organic Coconut Water,115,7,996,3.78
+10106,5687,3415,60.05,Honey & Maple Turkey Breast,96,20,996,9.04
+15399,5686,3762,66.16,"Almondmilk Creamer, Vanilla",91,16,998,6.99
+9598,5680,3893,68.54,Gogo Squeez Organic Apple Strawberry Applesauce on the Go,99,15,999,10.36
+12254,5677,2562,45.13,Organic Cherries,123,4,1000,9.54
