@@ -474,7 +474,7 @@ product_id,order_count,product_name,aisle_id,department_id,cart_order,Water,Ener
 13829,1354,Mild Salsa,51,13,7.27,89.3,29.0,1.44,0.19,6.74
 29223,1348,Golden Pineapple,24,4,3.32,85.0,,0.461,0.211,14.1
 11712,1347,Cage Free Large White Eggs,86,16,5.01,86.3,55.0,10.7,0.0,2.36
-19156,1340,Fat Free Blueberry Yogurt,120,16,6.65,84.2,,0.703,0.306,14.6
+19156,1340,Fat Free Blueberry Yogurt,120,16,6.65,90.8,144.0,3.43,0.08,4.92
 48205,1336,Spinach,123,4,5.63,92.5,,2.85,0.619,2.41
 29926,1335,Roasted & Salted Almonds,117,19,6.66,2.2,2590.0,20.4,57.8,16.2
 7559,1331,Cinnamon Rolls with Icing,105,13,6.96,10.2,,13.5,5.89,68.7
@@ -513,7 +513,7 @@ product_id,order_count,product_name,aisle_id,department_id,cart_order,Water,Ener
 42110,1245,Organic Macaroni Shells & Real Aged Cheddar,4,9,7.33,36.6,1710.0,23.3,34.0,2.44
 30353,1241,Curate Cherry Lime Sparkling Water,115,7,5.5,82.2,,1.04,0.192,16.2
 2120,1240,Sauvignon Blanc,62,5,3.31,,,,,
-13263,1237,Non Fat Acai & Mixed Berries Yogurt,120,16,6.22,86.6,,4.23,0.0875,8.08
+13263,1237,Non Fat Acai & Mixed Berries Yogurt,120,16,6.22,89.8,,3.46,1.08,4.81
 25513,1235,Boomchickapop Sea Salt Popcorn,23,19,6.33,15.8,,,82.2,
 19173,1230,Orange Calcium & Vitamin D Pulp Free,98,7,5.71,90.8,144.0,3.43,0.08,4.92
 17313,1228,Hass Avocado Variety,24,4,3.3,,,,,
