@@ -1,49 +1,41 @@
-Link to the data set: https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
-Download the data from Kaggle into a folder named 'input' in the project directory.
+# Tutorial on Instacart Data Analysis
 
-# Milestone 1: Exploring Instacart Online Grocery Shopping Dataset
-**By: Tanner Martz**
+[Slide Presentation](https://github.com/cur8tor/tmartzDS/blob/6bd9bcdc5bcbfc64d154366d6c8e6c43c4bd81df/presentation.pdf)
 
-[Link to my GitHub webpage](https://cur8tor.github.io/tmartzDS/)
+[GitHub Page](https://cur8tor.github.io/tmartzDS/)
 
-## Project Overview:
-### Objective:
-The overarching objective of our project is to leverage the Instacart dataset to gain insights into food purchasing behaviors – aiming to understand historical trends and predict future purchase behavior. This may an online food grocery store focused on essentials, potentially leading to a universal food package delivery system that caters to the general public.
+**Author: Tanner Martz**
 
-### Project Introduction:
-The Instacart dataset provides a detailed account of user purchase behaviors over time, offering rich information about food products, order sequence, and purchase timings. Through a deep dive into this dataset, we aim to:
+**Tulane University**
 
-Understand the essentials: What food products are most frequently bought by users?
-Predict future purchases: Based on historical data, can we forecast future buying behaviors?
-Inform a minimalist online food grocery store: If one were to create an 'essentials-only' store, what products should it carry?
-Explore the feasibility of a universal food package: Can we curate a food package that caters to the broadest demographic? How often should it be delivered to be most effective?
+**CMPS 3160 Intro. to Data Science**
 
-### Project Dataset
-This is a study of the Instacart dataset, made public with the goal to predict costomer reordering (jeremy stanley, Meg Risdal, sharathrao, Will Cukierski. (2017). Instacart Market Basket Analysis. Kaggle. https://kaggle.com/competitions/instacart-market-basket-analysis). Instacart is challenging the Kaggle community to use this anonym
-ized data on customer orders over time to predict which previously purchased products will be in a user’s next order. Here is the link to the data set: https://www.kaggle.com/competitions/instacart-market-basket-analysis/data.
 
-### ETL (Extraction, Transform, Load) Process:
-Extraction: CSV files were obtained directly from the Instacart competition page.
-Transform: Data will undergo processes to handle missing values, ensure data tidiness, and merge tables for enriched information.
-Load: Data frames, post transformation, will be structured for further analysis.
+## Project Overview
+### Objective
+The primary goal is to determine the most popular items ordered on Instacart and understand the factors influencing their popularity. This knowledge will then be used to predict the number of orders for new products.
 
-### Initial Analysis and Observations:
-Understand the top products and categories from the dataset – are there patterns that highlight essential products?
-Explore purchase frequencies – which products are consistently being bought over time?
+### Approach
+1. **Data Collection and Preparation**: 
+   1. Instacart dataset - (https://www.kaggle.com/competitions/instacart-market-basket-analysis/data) 
+   2. USDA Food Central Database for nutritional information - (https://fdc.nal.usda.gov/index.html)
+2. **Exploratory Data Analysis (EDA)**: Analyzing reorder patterns, popular products, and their features.
+3. **Feature Engineering**: Enhancing the dataset with nutritional data and other relevant attributes.
+4. **Machine Learning Modeling**: Utilizing Random Forest and XGBoost regressors to predict product popularity based on various features.
 
-### Deeper Analysis and Study Objectives:
-- Essentials Identification: Through product frequency and popularity, determine a list of 'essential' food products.
-- Predictive Analysis: Using past purchase data, attempt to predict future buying patterns.
-- Online Grocery Store Blueprint: Based on the essential products identified, create a hypothetical inventory list for an online food grocery store focusing on essentials.
-- Universal Food Package Design: Curate a universally appealing food package based on the most commonly bought items. Analyze order frequencies to determine optimal delivery schedules – weekly, bi-weekly, or monthly.
+### Insights
+- **Key Factors**: Reorder history, product type (especially fruits and vegetables), and nutritional content (water and protein content) are crucial in determining a product's popularity.
+- **Health Trend**: A positive correlation between the healthiness of products (high in water and protein) and their popularity.
+- **Future Directions**: Expansion of the project to include additional data sources, feature engineering, different machine learning algorithms, and enhanced visualizations.
 
-### Collaboration Plan:
-This project is structured as an individual endeavor. Git will be employed for version control, and all data, analysis, and findings will be hosted on GitHub. A systematic schedule will be adhered to, ensuring dedicated time slots for consistent project progress.
+### Methodology and Code
+- **Data Analysis**: Code snippets for data manipulation, visualization, and analysis using Pandas, Seaborn, and Matplotlib.
+- **Machine Learning**: Code for model building, training, and evaluation, including feature importance analysis.
 
-### Next Steps:
-- Proceed with a comprehensive Exploratory Data Analysis (EDA) of the Instacart dataset.
-- Correlate findings with external data sources, such as nutritional databases, to add depth to the analysis.
-- Design preliminary models for predictive analysis and test their efficacy.
+### Conclusions
+The study reveals a strong influence of reorder rates, product categories, and nutritional values on product popularity on Instacart. This understanding can guide effective product placement strategies and inventory management for online grocery stores.
 
-### Website/GitHub IO Page:
-Progress, including this Milestone 1 document and subsequent findings, will be updated on the GitHub IO page to ensure transparency and ease of reference.
+This tutorial serves as a comprehensive guide to understanding consumer behavior in online grocery shopping, particularly on Instacart, using data science techniques. The methodologies and insights presented here can be leveraged by data scientists and market analysts in similar contexts.
+
+
+---
